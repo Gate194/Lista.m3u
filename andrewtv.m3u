@@ -1,1 +1,113 @@
-a
+#EXTM3U
+#CANALESECUADOR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eJf77aD.png" group-title="ECUADOR",ECUAVISA
+http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/146438
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EHLVmOi.png" group-title="ECUADOR",ECUAVISA 2
+https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HQGUZQJ.png" group-title="ECUADOR",RTS
+https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8AKjysS.png" group-title="ECUADOR",RTS 2
+http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/146441
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YTb0bHk.png" group-title="ECUADOR",TELEAMAZONAS
+https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/0fc97608-6057-4db8-9af7-102c21ac18af.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0KcGSbY.png" group-title="ECUADOR",TELEAMAZONAS 2
+http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/146434
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bu1KBvE.png" group-title="ECUADOR",ECUADOR TV
+http://zuiowy.net:8080/rochavarria/NxUthVEcgVwH/2465
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CvwRgyi.png" group-title="ECUADOR",GAMAVISION
+http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/146439
+#EXTINF:-1 tvg-logo="https://i.imgur.com/saF8hB3.png" group-title="ECUADOR",GAMAVISION 2
+http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/146440
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9HoMlSh.png" group-title="ECUADOR",TC TELEVISIÓN
+http://zuiowy.net:8080/rochavarria/NxUthVEcgVwH/2448
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jS9ItVh.png" group-title="ECUADOR",TC TELEVISIÓN 2
+http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/146431
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZTnLYwT.png" group-title="ECUADOR",OROMAR TV 1
+http://zuiowy.net:8080/rochavarria/NxUthVEcgVwH/2458
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hL4JKM7.png" group-title="ECUADOR",OROMAR TV 2
+http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/146444
+
+#CANALESCOLOMBIA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P0Z34Zw.png" group-title="COLOMBIA",CANAL RCN
+http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/3576
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9I45VYg.png" group-title="COLOMBIA",CARACOL TV
+http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/3571
+
+#DEPORTES
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HAOWAzy.png" group-title="DEPORTES",GOL TV
+http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/236045
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HAOWAzy.png" group-title="DEPORTES",GOL TV 2
+http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/231814
+#EXTINF:-1 tvg-logo="https://i.imgur.com/go1iAnD.png" group-title="DEPORTES",GOL TV 3
+http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/291928
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="DEPORTES",ECDF
+http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/146445
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="DEPORTES",ECDF 2
+http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/144346
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="DEPORTES",ECDF 3
+http://zuiowy.net:8080/rochavarria/NxUthVEcgVwH/121126
+
+#CULTURA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TmHY3iR.png" group-title="CULTURA",CANAL DE DESCUBRIMIENTO
+http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/152893
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LDh9JXd.png" group-title="CULTURA",PLANETA ANIMAL
+http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/152923
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gMdSgw3.png" group-title="CULTURA",TEATRO
+http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/152918
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G6JViwD.png" group-title="CULTURA",DISCOVERY TURBO
+http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/152910
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e58QHb5.png" group-title="CULTURA",HOGAR Y SALUD
+http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/152921
+#EXTINF:-1 tvg-logo="https://i.imgur.com/42TLcSy.png" group-title="CULTURA",TLC
+http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/150585
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P674i7.png" group-title="CULTURA",INVESTIGACIÓN DEL DESCUBRIMIENTO
+http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/152898
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OsDoxVD.png" group-title="CULTURA",DESCUBRIMIENTO DE LA CIENCIA
+http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/152906
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4xK4vHh.png" group-title="CULTURA",HISTORIA
+http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/152928
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mh1QeKE.png" group-title="CULTURA",HISTORIA 2
+http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/152933
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j7nUkTZ.png" group-title="CULTURA",AMA LA NATURALEZA
+http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/235906
+
+#CINE PREMIUM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xOmFBoM.png" group-title="CINE PREMIUM",AMC
+http://magi-stv.net:8080/LEO2023/Leo2023/10548
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fx0kdhw.png" group-title="CINE PREMIUM",AXN
+http://magi-stv.net:8080/LEO2023/Leo2023/10550
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xqbUdMP.png" group-title="CINE PREMIUM",TNT
+http://magi-stv.net:8080/LEO2023/Leo2023/155176
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qTHDbD9.png" group-title="CINE PREMIUM",CANAL ESTRELLA
+http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/236067
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1WIibEk.png" group-title="CINE PREMIUM",CINCECANAL
+http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/143698
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wXAH58k.png" group-title="CINE PREMIUM",GOLDEN PLUS
+http://magi-stv.net:8080/LEO2023/Leo2023/10857
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GD4fDjY.png" group-title="CINE PREMIUM",ESTRENO DE ORO
+http://magi-stv.net:8080/LEO2023/Leo2023/200947
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xu7gpVe.png" group-title="CINE PREMIUM",CINEMAX
+http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/143695
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9n9CxFq.png" group-title="CINE PREMIUM",FX
+http://magi-stv.net:8080/LEO2023/Leo2023/10561
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pGJSmq8.png" group-title="CINE PREMIUM",CANAL SONY
+http://magi-stv.net:8080/LEO2023/Leo2023/10577
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sJRPHG9.png" group-title="CINE PREMIUM",DE PELICULA
+http://magi-stv.net:8080/LEO2023/Leo2023/154098
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GWAXFhx.png" group-title="CINE PREMIUM",DE PELICULA PLUS
+http://magi-stv.net:8080/LEO2023/Leo2023/10857
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7n05Lwm.png" group-title="CINE PREMIUM",ESPACIO
+http://magi-stv.net:8080/LEO2023/Leo2023/10871
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gukPLro.png" group-title="CINE PREMIUM",CANAL PARAMOUNT
+http://magi-stv.net:8080/LEO2023/Leo2023/10867
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IciLagY.png" group-title="CINE PREMIUM",CANAL WARNER BROS
+http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/139874
+#24/7
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/d2xJ6xmrchmnVL0S9gsbiGHskxp.jpg" group-title="24/7", EL CHAVO DEL 8
+http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/280763
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/dAfgwXs9HCEDnzPpBHVyrUeb8xi.jpg" group-title="24/7",BOB SPONJA
+http://51.159.104.29:8080/bobesponja/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/pT0NlYVIkwM2zAw9oUkePwrOlxW.jpg" group-title="24/7",BEN 10
+http://51.159.104.29:8080/ben10/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rLHhDpv6rrhuzBjNzaMRNv2fng.jpg" group-title="24/7",DRAGON BALL GT
+http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/168194
