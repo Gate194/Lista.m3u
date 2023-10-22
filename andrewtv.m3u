@@ -115,7 +115,7 @@ http://51.159.104.29:8080/ben10/index.m3u8
 http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/168194
 
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TmHY3iR.png" group-title="CULTURA",CANAL DE DESCUBRIMIEN
 #EXT-X-INDEPENDENT-SEGMENTS
 
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac-128k",NAME="Español (Latinoamericano)",LANGUAGE="es-419",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",URI="audio-1-128K/128_complete.m3u8"
