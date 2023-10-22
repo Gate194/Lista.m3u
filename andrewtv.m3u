@@ -1,4 +1,10 @@
 #EXTM3U
+#EVENTOS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2TTDtlv.png" group-title="EVENTOS",GUAYAQUIL CITY VS IDV
+http://sdmx.vip:8080/jalfredcruz2023/LG4LzZtvk7Nu/2190173
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2TTDtlv.png" group-title="EVENTOS",LDU VS CSE
+http://sdmx.vip:8080/jalfredcruz2023/LG4LzZtvk7Nu/2190178
+ 
 #CANALESECUADOR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eJf77aD.png" group-title="ECUADOR",ECUAVISA
 http://samuraitv.online:8000/kBtXVxxVd4Kv/73z5cf6kEs9K/146436
@@ -26,13 +32,13 @@ http://samuraitv.online:8000/kBtXVxxVd4Kv/73z5cf6kEs9K/146432
 http://samuraitv.online:8000/kBtXVxxVd4Kv/73z5cf6kEs9K/146444
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hL4JKM7.png" group-title="ECUADOR",OROMAR TV 2
 http://zuiowy.net:8080/rochavarria/NxUthVEcgVwH/2458
-
+ 
 #CANALESCOLOMBIA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P0Z34Zw.png" group-title="COLOMBIA",CANAL RCN
 http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/3576
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9I45VYg.png" group-title="COLOMBIA",CARACOL TV
 http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/3571
-
+ 
 #DEPORTES
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HAOWAzy.png" group-title="DEPORTES",GOL TV
 http://samuraitv.online:8000/kBtXVxxVd4Kv/73z5cf6kEs9K/167467
@@ -48,31 +54,31 @@ http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/146445
 http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/144346
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="DEPORTES",ECDF 3
 http://zuiowy.net:8080/rochavarria/NxUthVEcgVwH/121126
-
+ 
 #CULTURA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TmHY3iR.png" group-title="CULTURA",CANAL DE DESCUBRIMIENTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TmHY3iR.png" group-title="CULTURA",DISCOVERY CHANNEL
 http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/152893
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LDh9JXd.png" group-title="CULTURA",PLANETA ANIMAL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LDh9JXd.png" group-title="CULTURA",ANIMAL PLANET
 http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/152923
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gMdSgw3.png" group-title="CULTURA",TEATRO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gMdSgw3.png" group-title="CULTURA",THEATER
 http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/152918
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G6JViwD.png" group-title="CULTURA",DISCOVERY TURBO
 http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/152910
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e58QHb5.png" group-title="CULTURA",HOGAR Y SALUD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e58QHb5.png" group-title="CULTURA",HOME & HEALTH
 http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/152921
 #EXTINF:-1 tvg-logo="https://i.imgur.com/42TLcSy.png" group-title="CULTURA",TLC
 http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/150585
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7P674i7.png" group-title="CULTURA",INVESTIGACIÓN DEL DESCUBRIMIENTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P674i7.png" group-title="CULTURA",DISCOVERY INVESTIGATION
 http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/152898
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OsDoxVD.png" group-title="CULTURA",DESCUBRIMIENTO DE LA CIENCIA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OsDoxVD.png" group-title="CULTURA",DISCOVERY SCIENCE
 http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/152906
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4xK4vHh.png" group-title="CULTURA",HISTORIA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4xK4vHh.png" group-title="CULTURA",HISTORY
 http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/152928
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mh1QeKE.png" group-title="CULTURA",HISTORIA 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mh1QeKE.png" group-title="CULTURA",HISTORY 2
 http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/152933
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j7nUkTZ.png" group-title="CULTURA",AMA LA NATURALEZA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j7nUkTZ.png" group-title="CULTURA",LOVE NATURE
 http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/235906
-
+ 
 #CINE PREMIUM
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xOmFBoM.png" group-title="CINE PREMIUM",AMC
 http://magi-stv.net:8080/LEO2023/Leo2023/10548
@@ -80,29 +86,29 @@ http://magi-stv.net:8080/LEO2023/Leo2023/10548
 http://magi-stv.net:8080/LEO2023/Leo2023/10550
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xqbUdMP.png" group-title="CINE PREMIUM",TNT
 http://magi-stv.net:8080/LEO2023/Leo2023/155176
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qTHDbD9.png" group-title="CINE PREMIUM",CANAL ESTRELLA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qTHDbD9.png" group-title="CINE PREMIUM",STAR CHANNEL
 http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/236067
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1WIibEk.png" group-title="CINE PREMIUM",CINCECANAL
 http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/143698
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wXAH58k.png" group-title="CINE PREMIUM",GOLDEN PLUS
 http://magi-stv.net:8080/LEO2023/Leo2023/10857
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GD4fDjY.png" group-title="CINE PREMIUM",ESTRENO DE ORO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GD4fDjY.png" group-title="CINE PREMIUM",GOLDEN PREMIER
 http://magi-stv.net:8080/LEO2023/Leo2023/200947
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xu7gpVe.png" group-title="CINE PREMIUM",CINEMAX
 http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/143695
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9n9CxFq.png" group-title="CINE PREMIUM",FX
 http://magi-stv.net:8080/LEO2023/Leo2023/10561
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pGJSmq8.png" group-title="CINE PREMIUM",CANAL SONY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pGJSmq8.png" group-title="CINE PREMIUM",SONY CHANNEL
 http://magi-stv.net:8080/LEO2023/Leo2023/10577
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sJRPHG9.png" group-title="CINE PREMIUM",DE PELICULA
 http://magi-stv.net:8080/LEO2023/Leo2023/154098
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GWAXFhx.png" group-title="CINE PREMIUM",DE PELICULA PLUS
 http://magi-stv.net:8080/LEO2023/Leo2023/10857
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7n05Lwm.png" group-title="CINE PREMIUM",ESPACIO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7n05Lwm.png" group-title="CINE PREMIUM",SPACE
 http://magi-stv.net:8080/LEO2023/Leo2023/10871
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gukPLro.png" group-title="CINE PREMIUM",CANAL PARAMOUNT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gukPLro.png" group-title="CINE PREMIUM",PARAMOUNT CHANNEL
 http://magi-stv.net:8080/LEO2023/Leo2023/10867
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IciLagY.png" group-title="CINE PREMIUM",CANAL WARNER BROS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IciLagY.png" group-title="CINE PREMIUM",WARNER BROS CHANNEL
 http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/139874
 #24/7
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/d2xJ6xmrchmnVL0S9gsbiGHskxp.jpg" group-title="24/7", EL CHAVO DEL 8
@@ -113,37 +119,3 @@ http://51.159.104.29:8080/bobesponja/index.m3u8
 http://51.159.104.29:8080/ben10/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rLHhDpv6rrhuzBjNzaMRNv2fng.jpg" group-title="24/7",DRAGON BALL GT
 http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/168194
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TmHY3iR.png" group-title="CULTURA",CANAL DE DESCUBRIMIEN
-#EXT-X-INDEPENDENT-SEGMENTS
-
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac-128k",NAME="Español (Latinoamericano)",LANGUAGE="es-419",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",URI="audio-1-128K/128_complete.m3u8"
-
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac-64k",NAME="Español (Latinoamericano)",LANGUAGE="es-419",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",URI="audio-1-64K/64_complete.m3u8"
-
-#EXT-X-STREAM-INF:BANDWIDTH=1728000,AVERAGE-BANDWIDTH=1202000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=29.97,HDCP-LEVEL=TYPE-0,CHARACTERISTICS="com.dss.ctr.hd",AUDIO="aac-64k",CLOSED-CAPTIONS=NONE
-cmaf-cenc-ctr-1200K/1200_complete.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1188000,AVERAGE-BANDWIDTH=842000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=512x288,FRAME-RATE=29.97,HDCP-LEVEL=TYPE-0,CHARACTERISTICS="com.dss.ctr.hd",AUDIO="aac-64k",CLOSED-CAPTIONS=NONE
-cmaf-cenc-ctr-800K/800_complete.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=653000,AVERAGE-BANDWIDTH=482000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=384x216,FRAME-RATE=29.97,HDCP-LEVEL=TYPE-0,CHARACTERISTICS="com.dss.ctr.hd",AUDIO="aac-64k",CLOSED-CAPTIONS=NONE
-cmaf-cenc-ctr-450K/450_complete.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=448000,AVERAGE-BANDWIDTH=302000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=320x180,FRAME-RATE=29.97,HDCP-LEVEL=TYPE-0,CHARACTERISTICS="com.dss.ctr.hd",AUDIO="aac-64k",CLOSED-CAPTIONS=NONE
-cmaf-cenc-ctr-266K/266_complete.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2588000,AVERAGE-BANDWIDTH=1812000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=960x540,FRAME-RATE=29.97,HDCP-LEVEL=TYPE-0,CHARACTERISTICS="com.dss.ctr.hd",AUDIO="aac-64k",CLOSED-CAPTIONS=NONE
-cmaf-cenc-ctr-1832K/1832_complete.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=3648000,AVERAGE-BANDWIDTH=2526000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=960x540,FRAME-RATE=29.97,HDCP-LEVEL=TYPE-0,CHARACTERISTICS="com.dss.ctr.hd",AUDIO="aac-128k",CLOSED-CAPTIONS=NONE
-cmaf-cenc-ctr-2532K/2532_complete.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=4948000,AVERAGE-BANDWIDTH=3526000,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=29.97,HDCP-LEVEL=TYPE-0,CHARACTERISTICS="com.dss.ctr.hd",AUDIO="aac-128k",CLOSED-CAPTIONS=NONE
-cmaf-cenc-ctr-3500K/3500_complete.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=7548000,AVERAGE-BANDWIDTH=5526000,CODECS="avc1.640020,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=59.94,HDCP-LEVEL=TYPE-0,CHARACTERISTICS="com.dss.ctr.hd",AUDIO="aac-128k",CLOSED-CAPTIONS=NONE
-cmaf-cenc-ctr-5600K/5600_complete.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=8398000,AVERAGE-BANDWIDTH=6926000,CODECS="avc1.640020,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=59.94,HDCP-LEVEL=TYPE-0,CHARACTERISTICS="com.dss.ctr.hd",AUDIO="aac-128k",CLOSED-CAPTIONS=NONE
-cmaf-cenc-ctr-7000K/7000_complete.m3u8
-
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=160000,CODECS="avc1.4d401f",RESOLUTION=960x540,HDCP-LEVEL=TYPE-0,CHARACTERISTICS="com.dss.ctr.hd",URI="cmaf-cenc-ctr-2532K/2532_complete_iframe.m3u8"
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=29000,CODECS="avc1.4d401f",RESOLUTION=384x216,HDCP-LEVEL=TYPE-0,CHARACTERISTICS="com.dss.ctr.hd",URI="cmaf-cenc-ctr-450K/450_complete_iframe.m3u8"
-
-#EXT-X-SESSION-KEY:METHOD=SAMPLE-AES-CTR,KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed",KEYFORMATVERSIONS="1",CHARACTERISTICS="com.dss.ctr.hd",URI="data:text/plain;base64,AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEENf/rhdSkJmtMtMJbvilI1I89yVmwY="
-#EXT-X-SESSION-KEY:METHOD=SAMPLE-AES-CTR,KEYFORMAT="com.microsoft.playready",KEYFORMATVERSIONS="1",CHARACTERISTICS="com.dss.ctr.hd",URI="data:text/plain;charset=UTF-16;base64,xAEAAAEAAQC6ATwAVwBSAE0ASABFAEEARABFAFIAIAB4AG0AbABuAHMAPQAiAGgAdAB0AHAAOgAvAC8AcwBjAGgAZQBtAGEAcwAuAG0AaQBjAHIAbwBzAG8AZgB0AC4AYwBvAG0ALwBEAFIATQAvADIAMAAwADcALwAwADMALwBQAGwAYQB5AFIAZQBhAGQAeQBIAGUAYQBkAGUAcgAiACAAdgBlAHIAcwBpAG8AbgA9ACIANAAuADAALgAwAC4AMAAiAD4APABEAEEAVABBAD4APABQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsARQBZAEwARQBOAD4AMQA2ADwALwBLAEUAWQBMAEUATgA+ADwAQQBMAEcASQBEAD4AQQBFAFMAQwBUAFIAPAAvAEEATABHAEkARAA+ADwALwBQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsASQBEAD4AdQBQADUAZgBRADAAcABkAFoAawBLADAAeQAwAHcAbAB1ACsASwBVAGoAUQA9AD0APAAvAEsASQBEAD4APAAvAEQAQQBUAEEAPgA8AC8AVwBSAE0ASABFAEEARABFAFIAPgA="
-#EXT-X-SESSION-KEY:METHOD=SAMPLE-AES-CTR,KEYFORMAT="PRMNAGRA",KEYFORMATVERSIONS="1",CHARACTERISTICS="com.dss.ctr.hd",URI="data:text/plain;base64,eyJrZXktaWQiOiI0MzVmZmViOC01ZDRhLTQyNjYtYjRjYi00YzI1YmJlMjk0OGQiLCJlbWkiOiJjdHIiLCJwcm0iOiJleUpqYjI1MFpXNTBTV1FpT2lKamRISWlMQ0pyWlhsSlpDSTZJalF6TldabVpXSTRMVFZrTkdFdE5ESTJOaTFpTkdOaUxUUmpNalZpWW1VeU9UUTRaQ0o5In0="
