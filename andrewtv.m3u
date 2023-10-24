@@ -1,19 +1,17 @@
 #EXTM3U
 #EVENTOS
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2TTDtlv.png" group-title="EVENTOS",GUAYAQUIL CITY VS IDV
-http://sdmx.vip:8080/jalfredcruz2023/LG4LzZtvk7Nu/2190173
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2TTDtlv.png" group-title="EVENTOS",LDU VS CSE
 http://sdmx.vip:8080/jalfredcruz2023/LG4LzZtvk7Nu/2190178
  
 #CANALESECUADOR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eJf77aD.png" group-title="ECUADOR",ECUAVISA
-http://samuraitv.online:8000/kBtXVxxVd4Kv/73z5cf6kEs9K/146436
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/146436
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EHLVmOi.png" group-title="ECUADOR",ECUAVISA 2
 https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HQGUZQJ.png" group-title="ECUADOR",RTS
 https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8AKjysS.png" group-title="ECUADOR",RTS 2
-http://samuraitv.online:8000/kBtXVxxVd4Kv/73z5cf6kEs9K/146441
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/146441
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YTb0bHk.png" group-title="ECUADOR",TELEAMAZONAS
 https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/0fc97608-6057-4db8-9af7-102c21ac18af.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0KcGSbY.png" group-title="ECUADOR",TELEAMAZONAS 2
@@ -21,33 +19,27 @@ http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/146434
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bu1KBvE.png" group-title="ECUADOR",ECUADOR TV
 http://zuiowy.net:8080/rochavarria/NxUthVEcgVwH/2465
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CvwRgyi.png" group-title="ECUADOR",GAMAVISION
-http://samuraitv.online:8000/kBtXVxxVd4Kv/73z5cf6kEs9K/146439
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/146440
 #EXTINF:-1 tvg-logo="https://i.imgur.com/saF8hB3.png" group-title="ECUADOR",GAMAVISION 2
-http://samuraitv.online:8000/kBtXVxxVd4Kv/73z5cf6kEs9K/146440
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/146439
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9HoMlSh.png" group-title="ECUADOR",TC TELEVISIÓN
-http://samuraitv.online:8000/kBtXVxxVd4Kv/73z5cf6kEs9K/146433
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/291840
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jS9ItVh.png" group-title="ECUADOR",TC TELEVISIÓN 2
-http://samuraitv.online:8000/kBtXVxxVd4Kv/73z5cf6kEs9K/146432
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/146432
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZTnLYwT.png" group-title="ECUADOR",OROMAR TV 1
-http://samuraitv.online:8000/kBtXVxxVd4Kv/73z5cf6kEs9K/146444
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/146444
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hL4JKM7.png" group-title="ECUADOR",OROMAR TV 2
-http://zuiowy.net:8080/rochavarria/NxUthVEcgVwH/2458
- 
-#CANALESCOLOMBIA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P0Z34Zw.png" group-title="COLOMBIA",CANAL RCN
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/3576
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9I45VYg.png" group-title="COLOMBIA",CARACOL TV
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/3571
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/146430
  
 #DEPORTES
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HAOWAzy.png" group-title="DEPORTES",GOL TV
-http://samuraitv.online:8000/kBtXVxxVd4Kv/73z5cf6kEs9K/167467
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/223552
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HAOWAzy.png" group-title="DEPORTES",GOL TV 2
-http://samuraitv.online:8000/kBtXVxxVd4Kv/73z5cf6kEs9K/167468
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/291928
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HAOWAzy.png" group-title="DEPORTES",GOL TV 3
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/167467
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/167468
 #EXTINF:-1 tvg-logo="https://i.imgur.com/go1iAnD.png" group-title="DEPORTES",GOL TV 4
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/167468
+http://samuraitv.online:8000/JoseMoreno/uQlBbM2wKV/167441
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="DEPORTES",ECDF
 http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/146445
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="DEPORTES",ECDF 2
