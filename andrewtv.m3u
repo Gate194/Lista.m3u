@@ -1,8 +1,8 @@
 #EXTM3U
 #EVENTOS
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2TTDtlv.png" group-title="ECUADOR",ECUAVISA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2TTDtlv.png" group-title="EVENTOS",ECUAVISA
 http://sdmx.vip:8080/jalfredcruz2023/LG4LzZtvk7Nu/2190562
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2TTDtlv.png" group-title="ECUADOR",EMELEC VS U. CATOLICA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2TTDtlv.png" group-title="EVENTOS",EMELEC VS U. CATOLICA
 http://sdmx.vip:8080/jalfredcruz2023/LG4LzZtvk7Nu/2190562
 #CANALES ECUADOR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eJf77aD.png" group-title="ECUADOR",ECUAVISA
