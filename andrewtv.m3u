@@ -1,9 +1,11 @@
 #EXTM3U
 #EVENTOS
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2TTDtlv.png" group-title="EVENTOS",Independiente del Valle vs. Deportivo Cuenca
-http://sdmx.vip:8080/jalfredcruz2023/LG4LzZtvk7Nu/2190555
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2TTDtlv.png" group-title="EVENTOS",Emelec vs. Universidad Católica
-http://sdmx.vip:8080/jalfredcruz2023/LG4LzZtvk7Nu/2190562
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2TTDtlv.png" group-title="EVENTOS",Delfín SC vs. Cumbayá
+http://sdmx.vip:8080/jalfredcruz2023/LG4LzZtvk7Nu/2190725
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2TTDtlv.png" group-title="EVENTOS",Aucas vs. Mushuc Runa
+http://sdmx.vip:8080/jalfredcruz2023/LG4LzZtvk7Nu/2190731
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2TTDtlv.png" group-title="EVENTOS",Orense vs. Barcelona SC
+http://sdmx.vip:8080/jalfredcruz2023/LG4LzZtvk7Nu/2190739
 #CANALES ECUADOR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eJf77aD.png" group-title="ECUADOR",ECUAVISA
 http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/user1161/XyZa5485/63154
