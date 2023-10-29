@@ -1,9 +1,9 @@
 #EXTM3U
 #EVENTOS
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2TTDtlv.png" group-title="EVENTOS",Delfín SC vs. Cumbayá
-http://sdmx.vip:8080/jalfredcruz2023/LG4LzZtvk7Nu/2190725
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2TTDtlv.png" group-title="EVENTOS",Aucas vs. Mushuc Runa
 http://sdmx.vip:8080/jalfredcruz2023/LG4LzZtvk7Nu/2190731
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2TTDtlv.png" group-title="EVENTOS",Aucas vs. Mushuc Runa 2
+http://sdmx.vip:8080/China02/china93/2190731
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2TTDtlv.png" group-title="EVENTOS",Orense vs. Barcelona SC
 http://sdmx.vip:8080/jalfredcruz2023/LG4LzZtvk7Nu/2190739
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2TTDtlv.png" group-title="EVENTOS",Orense vs. Barcelona SC 2
