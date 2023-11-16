@@ -1,9 +1,13 @@
 #EXTM3U
+
 #EVENTOS
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fbnfeqg.png" group-title="EVENTOS",LIBERTAD VS LIGA  DE QUITO
-http://redima.pro:8880/DULCH/1692/302
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jViveLO.png" group-title="EVENTOS",EMELEC VS BARCELONA SC
-http://redima.pro:8880/DULCH/1692/302
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8VouSZ4.png" group-title="BOLIVIA VS PERU",LATINA
+http://200.24.206.132:8000/play/a0cu/index.m3u8
+http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/241957
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="VENEZUELA VS ECUADOR",ECDF
+http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/5735
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="VENEZUELA VS ECUADOR",ECDF 2
+http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/5734
 
 #CANALESECUADOR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eJf77aD.png" group-title="ECUADOR",ECUAVISA
