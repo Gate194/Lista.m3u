@@ -1,37 +1,5 @@
 #EXTM3U
 
-#EVENTOS
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8VouSZ4.png" group-title="BOLIVIA VS PERU",LATINA
-http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/241957
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6gJkq0I.png" group-title="BOLIVIA VS PERU", GOL CARACOL
-http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/221
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C0305Uv.png" group-title="BOLIVIA VS PERU",TYC SPORTS
-http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/267
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="VENEZUELA VS ECUADOR",ECDF
-http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/5735
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="VENEZUELA VS ECUADOR",ECDF 2
-http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/5734
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6gJkq0I.png" group-title="VENEZUELA VS ECUADOR", GOL CARACOL
-http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/221
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5ZJ81yi.png" group-title="VENEZUELA VS ECUADOR",TELEVEN
-http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/76817
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="ARGENTINA VS URURGUAY",ECDF
-http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/5735
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="ARGENTINA VS URURGUAY",ECDF 2
-http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/5734
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C0305Uv.png" group-title="ARGENTINA VS URURGUAY",TYC SPORTS
-http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/267
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aBQArIn.png" group-title="ARGENTINA VS URURGUAY",TV PUBLICA
-http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/268
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6gJkq0I.png" group-title="COLOMBIA VS BRAZIL", GOL CARACOL
-http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/221
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q6dAccR.png" group-title="CHILE VS PARAGUAY", CHILE VISION
-http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/241961
-
 #CANALESECUADOR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eJf77aD.png" group-title="ECUADOR",ECUAVISA
 http://zuiowy.net:8080/rochavarria/NxUthVEcgVwH/2471
