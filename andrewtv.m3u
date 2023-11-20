@@ -1,5 +1,41 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9I45VYg.png" group-title="PARAGUAY VS COLOMBIA",CARACOL TV
+http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/462
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R2mZT3M.png" group-title="PARAGUAY VS COLOMBIA",GOL PERU
+http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/20400
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q6dAccR.png" group-title="ECUADOR VS CHILE",CHILEVSION
+http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/231
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="ECUADOR VS CHILE",ECDF
+http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/5735
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="ECUADOR VS CHILE",ECDF 2
+http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/5734
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="ECUADOR VS CHILE",ECDF 3
+http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/5736
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R2mZT3M.png" group-title="ECUADOR VS CHILE",GOL PERU
+http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/20400
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aBQArIn.png" group-title="BRASIL VS ARGENTINA",TV PUBLICA
+http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/268
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yosvXUU.png" group-title="BRASIL VS ARGENTINA",TYC SPORTS
+http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/148
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yosvXUU.png" group-title="BRASIL VS ARGENTINA",TYC SPORTS 2
+http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/26868
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yosvXUU.png" group-title="BRASIL VS ARGENTINA",TYC SPORTS 3
+http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/27864
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yosvXUU.png" group-title="BRASIL VS ARGENTINA",TYC SPORTS 4
+http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/267
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8VouSZ4.png" group-title="BRASIL VS ARGENTINA",LATINA
+http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/222811
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q6dAccR.png" group-title="PERU VS VENEZUELA",CHILEVSION
+http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/231
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q6dAccR.png" group-title="PERU VS VENEZUELA",AMERICA TELEVISION
+http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/222804
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q6dAccR.png" group-title="PERU VS VENEZUELA",VENEVISION
+http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/216
+
 #CANALESECUADOR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eJf77aD.png" group-title="ECUADOR",ECUAVISA
 http://zuiowy.net:8080/rochavarria/NxUthVEcgVwH/2471
