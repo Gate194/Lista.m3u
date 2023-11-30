@@ -1,70 +1,31 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9I45VYg.png" group-title="PARAGUAY VS COLOMBIA",CARACOL TV
-http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/462
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9I45VYg.png" group-title="PARAGUAY VS COLOMBIA",CARACOL TV 2
-http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/221
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R2mZT3M.png" group-title="PARAGUAY VS COLOMBIA",GOL PERU
-http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/20400
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q6dAccR.png" group-title="ECUADOR VS CHILE",CHILEVSION
-http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/231
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="ECUADOR VS CHILE",ECDF
-http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/5735
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="ECUADOR VS CHILE",ECDF 2
-http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/5734
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="ECUADOR VS CHILE",ECDF 3
-http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/5736
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R2mZT3M.png" group-title="ECUADOR VS CHILE",GOL PERU
-http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/20400
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aBQArIn.png" group-title="BRASIL VS ARGENTINA",TV PUBLICA
-http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/268
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yosvXUU.png" group-title="BRASIL VS ARGENTINA",TYC SPORTS
-http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/148
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yosvXUU.png" group-title="BRASIL VS ARGENTINA",TYC SPORTS 2
-http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/26868
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yosvXUU.png" group-title="BRASIL VS ARGENTINA",TYC SPORTS 3
-http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/27864
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yosvXUU.png" group-title="BRASIL VS ARGENTINA",TYC SPORTS 4
-http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/267
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8VouSZ4.png" group-title="BRASIL VS ARGENTINA",LATINA
-http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/222811
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q6dAccR.png" group-title="PERU VS VENEZUELA",CHILEVSION
-http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/231
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gdedQmE.png" group-title="PERU VS VENEZUELA",AMERICA TELEVISION
-http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/222804
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HER4XK6.png" group-title="PERU VS VENEZUELA",VENEVISION
-http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/216
-
 #CANALESECUADOR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eJf77aD.png" group-title="ECUADOR",ECUAVISA
 http://zuiowy.net:8080/rochavarria/NxUthVEcgVwH/2471
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EHLVmOi.png" group-title="ECUADOR",ECUAVISA 2
-http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/1535
+http://zuiowy.net:8080/rochavarria/NxUthVEcgVwH/2474
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HQGUZQJ.png" group-title="ECUADOR",RTS
 https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8AKjysS.png" group-title="ECUADOR",RTS 2
-http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/1515
+http://redima.pro:8880/DULCH/1692/449
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YTb0bHk.png" group-title="ECUADOR",TELEAMAZONAS
 https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/0fc97608-6057-4db8-9af7-102c21ac18af.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0KcGSbY.png" group-title="ECUADOR",TELEAMAZONAS 2
-http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/1522
+http://redima.pro:8880/DULCH/1692/451
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bu1KBvE.png" group-title="ECUADOR",ECUADOR TV
 http://zuiowy.net:8080/rochavarria/NxUthVEcgVwH/2465
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CvwRgyi.png" group-title="ECUADOR",GAMAVISION
-http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/1537
+http://zuiowy.net:8080/rochavarria/NxUthVEcgVwH/2446
 #EXTINF:-1 tvg-logo="https://i.imgur.com/saF8hB3.png" group-title="ECUADOR",GAMAVISION 2
-http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/1560
+http://zuiowy.net:8080/rochavarria/NxUthVEcgVwH/2447
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9HoMlSh.png" group-title="ECUADOR",TC TELEVISIÓN
 http://zuiowy.net:8080/rochavarria/NxUthVEcgVwH/2448
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jS9ItVh.png" group-title="ECUADOR",TC TELEVISIÓN 2
-http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/27483
+http://redima.pro:8880/DULCH/1692/461
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZTnLYwT.png" group-title="ECUADOR",OROMAR TV 1
 http://zuiowy.net:8080/rochavarria/NxUthVEcgVwH/2458
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hL4JKM7.png" group-title="ECUADOR",OROMAR TV 2
-http://proiptvdigic.com:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/1528
+http://redima.pro:8880/DULCH/1692/465
 
 #DEPORTES
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HAOWAzy.png" group-title="DEPORTES",GOL TV
