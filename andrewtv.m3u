@@ -1,12 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4Mv5pCy.png" group-title=LIGA PRO",U. CATOLICA VS BARCELONA SC
-http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/195126
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4Mv5pCy.png" group-title=LIGA PRO",U. CATOLICA VS BARCELONA SC 2
-http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/195403
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kl7BTH1.png" group-title="LIGA PRO",EMELEC SC VS D. CUENCA
-http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/195124
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kl7BTH1.png" group-title="LIGA PRO",EMELEC SC VS D. CUENCA 2
-http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/195404
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2TTDtlv.png" group-title=LIGA PRO",LIGA DE QUITO VS INDEPENDIENTE DEL VALLE
+http://magmas5.com:8000/impejol2022/VJIUZWQ5G9/198880
+
 #CANALESECUADOR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eJf77aD.png" group-title="ECUADOR",ECUAVISA
 http://zuiowy.net:8080/rochavarria/NxUthVEcgVwH/2471
