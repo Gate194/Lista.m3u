@@ -1,10 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N034XC7.png" group-title="EVENTOS",DALLAS VS INTER MIAMI
-http://zuiowy.net:8080/rochavarria/NxUthVEcgVwH/135036
-
 #CANALESECUADOR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eJf77aD.png" group-title="ECUADOR",ECUAVISA
-http://zuiowy.net:8080/rochavarria/NxUthVEcgVwH/2471
+http://redima.pro:8880/DULCH/1692/448
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EHLVmOi.png" group-title="ECUADOR",ECUAVISA 2
 http://zuiowy.net:8080/rochavarria/NxUthVEcgVwH/2474
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HQGUZQJ.png" group-title="ECUADOR",RTS
@@ -12,7 +9,7 @@ https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8AKjysS.png" group-title="ECUADOR",RTS 2
 http://redima.pro:8880/DULCH/1692/449
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YTb0bHk.png" group-title="ECUADOR",TELEAMAZONAS
-https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/0fc97608-6057-4db8-9af7-102c21ac18af.m3u8
+http://zuiowy.net:8080/rochavarria/NxUthVEcgVwH/2445
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0KcGSbY.png" group-title="ECUADOR",TELEAMAZONAS 2
 http://redima.pro:8880/DULCH/1692/451
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bu1KBvE.png" group-title="ECUADOR",ECUADOR TV
