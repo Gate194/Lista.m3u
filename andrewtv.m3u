@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N034XC7.png" group-title="EVENTOS",INTER DE MIAMI
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/212414
 #CANALESECUADOR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eJf77aD.png" group-title="ECUADOR",ECUAVISA
 http://redima.pro:8880/DULCH/1692/448
