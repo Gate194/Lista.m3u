@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N034XC7.png" group-title="EVENTOS",LA VS INTER DE MIAMI
+http://sdmx.vip:8080/belpley/sYqKZQrTZa/2199135
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N034XC7.png" group-title="EVENTOS",LA VS INTER DE MIAMI 2
+http://2.magmas5.com:8000/FereTV/8R6JSEMQ46/213531
 #CANALESECUADOR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eJf77aD.png" group-title="ECUADOR",ECUAVISA
 http://redima.pro:8880/DULCH/1692/448
