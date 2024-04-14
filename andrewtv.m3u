@@ -1,15 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="AMISTOSO",ECDF
-http://novared.pro:8080/EmeraDF/MeraEL1606/115997
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="AMISTOSO",ECDF 2
-http://novared.pro:8080/M@RCELOGaLVEZ/g@LVEZ2023/115997
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="AMISTOSO",ECDF 3
-http://novared.pro:8080/EverHernandezIPTVCLUB/87jMkZgsdAPB/115997
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vbAEuh6.png" group-title="AMISTOSO",MOVSTAR DEPORTES
-http://novared.pro:8080/EverHernandezIPTVCLUB/87jMkZgsdAPB/330761
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2TTDtlv.png" group-title="EVENTOS",LIGA PRO
-http://novared.pro:8080/EmeraDF/MeraEL1606/339464
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="EVENTOS",LIGA PRO
+http://restreamus.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/222799
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2TTDtlv.png" group-title="EVENTOS",LIGA PRO 2
 http://novared.pro:8080/MiltonReyes/5XllqAkuek/339464
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N034XC7.png" group-title="EVENTOS",MLS
