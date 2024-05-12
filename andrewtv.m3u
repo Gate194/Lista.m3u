@@ -35,8 +35,10 @@ http://pltvsu.info:8080/nova/PTvMaLYxKYmd/5733
 http://pltvsu.info:8080/nova/PTvMaLYxKYmd/1528
  
 #DEPORTES
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HAOWAzy.png" group-title="DEPORTES",GOL TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HAOWAzy.png" group-title="DEPORTES",ESPN EC
 http://pltvsu.info:8080/CwcspkjCgzeZ/m5mknNRdkmc9/25913
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HAOWAzy.png" group-title="DEPORTES",GOL TV
+http://pltvsu.info:8080/CwcspkjCgzeZ/m5mknNRdkmc9/244079
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="DEPORTES",ECDF 1
 http://home-playtv.com:8080/Flacotv@7/DvbnBw2N5n2d/198814
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="DEPORTES",ECDF 2
