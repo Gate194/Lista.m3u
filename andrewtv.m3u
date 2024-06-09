@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="AMISTOS",ECDF
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="ARGENTINA VS ECUADOR",ECDF
 http://pltvsu.info:8080/CwcspkjCgzeZ/m5mknNRdkmc9/5734
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="AMISTOS",ECDF 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="ARGENTINA VS ECUADOR",ECDF 2
 http://pltvsu.info:8080/nova/PTvMaLYxKYmd/5734
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yosvXUU.png" group-title="AMISTOS",TYC SPORTS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yosvXUU.png" group-title="ARGENTINA VS ECUADOR",TYC SPORTS
 http://pltvsu.info:8080/CwcspkjCgzeZ/m5mknNRdkmc9/267
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yosvXUU.png" group-title="AMISTOS",TYC SPORTS 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yosvXUU.png" group-title="ARGENTINA VS ECUADOR",TYC SPORTS 2
 http://pltvsu.info:8080/nova/PTvMaLYxKYmd/267
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nZ1tRez.png" group-title="AMISTOS",TUDN USA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nZ1tRez.png" group-title="MEXICO VS BRASIL",TUDN USA
 http://pltvsu.info:8080/CwcspkjCgzeZ/m5mknNRdkmc9/395
  
 #CANALESECUADOR
