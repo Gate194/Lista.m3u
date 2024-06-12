@@ -1,15 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="ARGENTINA VS ECUADOR",ECDF
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="ECUADOR VS BOLIVIA",ECDF
 http://pltvsu.info:8080/CwcspkjCgzeZ/m5mknNRdkmc9/5734
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="ARGENTINA VS ECUADOR",ECDF 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="ECUADOR VS BOLIVIA",ECDF 2
 http://pltvsu.info:8080/nova/PTvMaLYxKYmd/5734
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yosvXUU.png" group-title="ARGENTINA VS ECUADOR",TYC SPORTS
-http://pltvsu.info:8080/CwcspkjCgzeZ/m5mknNRdkmc9/267
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yosvXUU.png" group-title="ARGENTINA VS ECUADOR",TYC SPORTS 2
-http://pltvsu.info:8080/nova/PTvMaLYxKYmd/267
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AdKqqTV.png" group-title="MEXICO VS BRASIL",TUDN USA
-http://pltvsu.info:8080/nova/PTvMaLYxKYmd/271
- 
 #CANALESECUADOR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eJf77aD.png" group-title="ECUADOR",ECUAVISA
 http://pltvsu.info:8080/nova/PTvMaLYxKYmd/1519
