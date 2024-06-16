@@ -3,16 +3,12 @@
 https://9.tiofutbol.com/ecdf/index.m3u8?token=8e5e6c0f4cc6c571c86893660d72bddcfae98242-e10a6df84299a61eea894b118e113904-1718573088-1718562288&remote=190.155.81.92
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="ECUADOR VS HONDURAS",ECDF 2
 https://9.tiofutbol.com/ecdf/tracks-v1a1/mono.m3u8?remote=190.155.81.92&token=8e5e6c0f4cc6c571c86893660d72bddcfae98242-e10a6df84299a61eea894b118e113904-1718573088-1718562288
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="ECUADOR VS HONDURAS",ECDF 3
-http://pltvsu.info:8080/nova/PTvMaLYxKYmd/25912
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="ECUADOR VS HONDURAS",ECDF 4
-http://pltvsu.info:8080/CwcspkjCgzeZ/m5mknNRdkmc9/25912
 
 #CANALESECUADOR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eJf77aD.png" group-title="ECUADOR",ECUAVISA
 http://novared.pro:80/play/ea3cRdDOzyB4754daJLS7A49dC4T6BK9k6EjpUQyHPY/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EHLVmOi.png" group-title="ECUADOR",ECUAVISA 2
-http://pltvsu.info:8080/nova/PTvMaLYxKYmd/1520
+http://novared.pro:80/play/N2kDkfAC3EiswSHgQjruEbdNjoi4CWzv3-YMreHx-AhQbjdB8BX94X_rmi_Ix3x3/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HQGUZQJ.png" group-title="ECUADOR",RTS
 http://pltvsu.info:8080/nova/PTvMaLYxKYmd/1554
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8AKjysS.png" group-title="ECUADOR",RTS 2
