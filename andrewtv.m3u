@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="ECUADOR VS HONDURAS",ECDF
-http://pltvsu.info:8080/nova/PTvMaLYxKYmd/5734
+https://9.tiofutbol.com/ecdf/index.m3u8?token=8e5e6c0f4cc6c571c86893660d72bddcfae98242-e10a6df84299a61eea894b118e113904-1718573088-1718562288&remote=190.155.81.92
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="ECUADOR VS HONDURAS",ECDF 2
-http://pltvsu.info:8080/CwcspkjCgzeZ/m5mknNRdkmc9/5734
+https://9.tiofutbol.com/ecdf/tracks-v1a1/mono.m3u8?remote=190.155.81.92&token=8e5e6c0f4cc6c571c86893660d72bddcfae98242-e10a6df84299a61eea894b118e113904-1718573088-1718562288
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="ECUADOR VS HONDURAS",ECDF 3
 http://pltvsu.info:8080/nova/PTvMaLYxKYmd/25912
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="ECUADOR VS HONDURAS",ECDF 4
