@@ -21,10 +21,10 @@ http://test.btorr.cfd:8080/xxxrestream/fghiBrdf55/18772
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zUFTN1F.png" group-title="MEXICO VS JAMAICA",Canal 5 Televisa
 http://home-playtv.com:8080/restreamhome/5Ykqk9DpQUtm/186607
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AdKqqTV.png" group-title="MEXICO VS JAMAICA",Canal 5 Televisa
-http://home-playtv.com:8080/restreamhome/5Ykqk9DpQUtm/241992
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zUFTN1F.png" group-title="MEXICO VS JAMAICA",Canal 5 Televisa 2
 http://home-playtv.com:8080/restreamhome/5Ykqk9DpQUtm/241991
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AdKqqTV.png" group-title="MEXICO VS JAMAICA",Azteca 7
+http://home-playtv.com:8080/restreamhome/5Ykqk9DpQUtm/241992
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YBePHVG.png" group-title="MEXICO VS JAMAICA",TDUN
 http://home-playtv.com:8080/restreamhome/5Ykqk9DpQUtm/218637
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uqzGejz.png" group-title="MEXICO VS JAMAICA",TUDN USA
