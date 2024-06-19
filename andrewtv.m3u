@@ -9,6 +9,27 @@ http://home-playtv.com:8080/restreamhome/5Ykqk9DpQUtm/21222
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gx8jfT6.png" group-title="ARGENTINA VS CANADÁ",TYC Sports Internacional
 http://home-playtv.com:8080/restreamhome/5Ykqk9DpQUtm/188939
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="ECUADOR VS VENEZUELA",ECDF
+http://home-playtv.com:8080/restreamhome/5Ykqk9DpQUtm/198814
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="ECUADOR VS VENEZUELA",ECDF 2
+http://home-playtv.com:8080/restreamhome/5Ykqk9DpQUtm/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yosvXUU.png" group-title="ARGENTINA VS CANADÁ",TYC Sports
+http://home-playtv.com:8080/restreamhome/5Ykqk9DpQUtm/454718
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eJf77aD.png" group-title="ARGENTINA VS CANADÁ",Ecuavisa
+http://test.btorr.cfd:8080/xxxrestream/fghiBrdf55/18772
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zUFTN1F.png" group-title="MEXICO VS JAMAICA",Canal 5 Televisa
+http://home-playtv.com:8080/restreamhome/5Ykqk9DpQUtm/186607
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AdKqqTV.png" group-title="MEXICO VS JAMAICA",Canal 5 Televisa
+http://home-playtv.com:8080/restreamhome/5Ykqk9DpQUtm/241992
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zUFTN1F.png" group-title="MEXICO VS JAMAICA",Canal 5 Televisa 2
+http://home-playtv.com:8080/restreamhome/5Ykqk9DpQUtm/241991
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YBePHVG.png" group-title="MEXICO VS JAMAICA",TDUN
+http://home-playtv.com:8080/restreamhome/5Ykqk9DpQUtm/218637
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uqzGejz.png" group-title="MEXICO VS JAMAICA",TUDN USA
+http://home-playtv.com:8080/restreamhome/5Ykqk9DpQUtm/242045
+
 #CANALESECUADOR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eJf77aD.png" group-title="ECUADOR",ECUAVISA
 http://test.btorr.cfd:8080/xxxrestream/fghiBrdf55/18772
