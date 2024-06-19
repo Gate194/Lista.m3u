@@ -1,24 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="ECUADOR VS HONDURAS",ECDF
-https://9.tiofutbol.com/ecdf/index.m3u8?token=8e5e6c0f4cc6c571c86893660d72bddcfae98242-e10a6df84299a61eea894b118e113904-1718573088-1718562288&remote=190.155.81.92
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="ECUADOR VS HONDURAS",ECDF 2
-https://9.tiofutbol.com/ecdf/tracks-v1a1/mono.m3u8?remote=190.155.81.92&token=8e5e6c0f4cc6c571c86893660d72bddcfae98242-e10a6df84299a61eea894b118e113904-1718573088-1718562288
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="ECUADOR VS HONDURAS",ECDF 3
-http://novared.pro:80/play/N2kDkfAC3EiswSHgQjruEbdNjoi4CWzv3-YMreHx-AjBWW2p27p0uE4cPSGhM0EV/ts
 
 #CANALESECUADOR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eJf77aD.png" group-title="ECUADOR",ECUAVISA
-http://novared.pro:80/play/ea3cRdDOzyB4754daJLS7A49dC4T6BK9k6EjpUQyHPY/ts
+http://test.btorr.cfd:8080/xxxrestream/fghiBrdf55/18772
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EHLVmOi.png" group-title="ECUADOR",ECUAVISA 2
 http://novared.pro:80/play/N2kDkfAC3EiswSHgQjruEbdNjoi4CWzv3-YMreHx-AhQbjdB8BX94X_rmi_Ix3x3/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HQGUZQJ.png" group-title="ECUADOR",RTS
-http://pltvsu.info:8080/nova/PTvMaLYxKYmd/1554
+https://alba-ec-rts-rts.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8AKjysS.png" group-title="ECUADOR",RTS 2
 http://ultrapremium.cloud:8080/86087646/3Vc3N3Y25fBM/63139
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YTb0bHk.png" group-title="ECUADOR",TELEAMAZONAS
 http://pltvsu.info:8080/nova/PTvMaLYxKYmd/1536
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bu1KBvE.png" group-title="ECUADOR",ECUADOR TV
-http://pltvsu.info:8080/nova/PTvMaLYxKYmd/1527
+http://test.btorr.cfd:8080/xxxrestream/fghiBrdf55/18771
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CvwRgyi.png" group-title="ECUADOR",GAMAVISION
 http://pltvsu.info:8080/nova/PTvMaLYxKYmd/1537
 #EXTINF:-1 tvg-logo="https://i.imgur.com/saF8hB3.png" group-title="ECUADOR",GAMAVISION 2
