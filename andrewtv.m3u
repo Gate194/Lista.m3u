@@ -1,4 +1,11 @@
 #EXTM3U
+COPA AMERICA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aBQArIn.png" group-title="ARGENTINA VS CANADÁ",TV Pública
+http://home-playtv.com:8080/restreamhome/5Ykqk9DpQUtm/46972
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yosvXUU.png" group-title="ARGENTINA VS CANADÁ",TYC Sports
+http://home-playtv.com:8080/restreamhome/5Ykqk9DpQUtm/454718
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yosvXUU.png" group-title="ARGENTINA VS CANADÁ",TYC Sports 2
+http://home-playtv.com:8080/restreamhome/5Ykqk9DpQUtm/21222
 
 #CANALESECUADOR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eJf77aD.png" group-title="ECUADOR",ECUAVISA
