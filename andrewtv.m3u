@@ -4,25 +4,27 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eJf77aD.png" group-title="ECUADOR",ECUAVISA
 http://test.btorr.cfd:8080/xxxrestream/fghiBrdf55/18772
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EHLVmOi.png" group-title="ECUADOR",ECUAVISA 2
-http://novared.pro:80/play/N2kDkfAC3EiswSHgQjruEbdNjoi4CWzv3-YMreHx-AhQbjdB8BX94X_rmi_Ix3x3/ts
+http://home-playtv.com:8080/restreamhome/5Ykqk9DpQUtm/198789
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HQGUZQJ.png" group-title="ECUADOR",RTS
 https://alba-ec-rts-rts.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8AKjysS.png" group-title="ECUADOR",RTS 2
-http://ultrapremium.cloud:8080/86087646/3Vc3N3Y25fBM/63139
+http://novared.pro:80/play/N2kDkfAC3EiswSHgQjruEbdNjoi4CWzv3-YMreHx-Aj2FLE8oC3ZZYvw4JK0v7vj/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YTb0bHk.png" group-title="ECUADOR",TELEAMAZONAS
-http://pltvsu.info:8080/nova/PTvMaLYxKYmd/1536
+http://test.btorr.cfd:8080/xxxrestream/fghiBrdf55/18779
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bu1KBvE.png" group-title="ECUADOR",ECUADOR TV
 http://test.btorr.cfd:8080/xxxrestream/fghiBrdf55/18771
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CvwRgyi.png" group-title="ECUADOR",GAMAVISION
-http://pltvsu.info:8080/nova/PTvMaLYxKYmd/1537
+http://novared.pro:80/play/N2kDkfAC3EiswSHgQjruEbdNjoi4CWzv3-YMreHx-AhN-vSStX1HUiZgXz2NWuPY/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/saF8hB3.png" group-title="ECUADOR",GAMAVISION 2
-http://pltvsu.info:8080/nova/PTvMaLYxKYmd/1552
+http://novared.pro:80/play/N2kDkfAC3EiswSHgQjruEbdNjoi4CWzv3-YMreHx-Aj415yjLwL98VNJOhKCTiF-/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9HoMlSh.png" group-title="ECUADOR",TC TELEVISIÓN
-http://pltvsu.info:8080/nova/PTvMaLYxKYmd/54188
+http://novared.pro:80/play/N2kDkfAC3EiswSHgQjruEbdNjoi4CWzv3-YMreHx-AjI_FukofpFiH0L6k5h0RMT/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jS9ItVh.png" group-title="ECUADOR",TC TELEVISIÓN 2
-http://pltvsu.info:8080/nova/PTvMaLYxKYmd/5733
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZTnLYwT.png" group-title="ECUADOR",OROMAR TV 1
-http://pltvsu.info:8080/nova/PTvMaLYxKYmd/1528
+http://novared.pro:80/play/N2kDkfAC3EiswSHgQjruEbdNjoi4CWzv3-YMreHx-AjamYVjmPFhz3divMzoVQn7/ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZTnLYwT.png" group-title="ECUADOR",OROMAR TV
+http://test.btorr.cfd:8080/xxxrestream/fghiBrdf55/18776
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZTnLYwT.png" group-title="ECUADOR",CANELA TV
+http://test.btorr.cfd:8080/xxxrestream/fghiBrdf55/18770
  
 #DEPORTES
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HAOWAzy.png" group-title="DEPORTES",ESPN EC
