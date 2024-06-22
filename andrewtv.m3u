@@ -5,9 +5,15 @@ http://home-playtv.com:8080/restreamhome/5Ykqk9DpQUtm/439753
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9GfoBGA.png" group-title="TURQUIA VS PORTUGAL",ESPN 2
 http://home-playtv.com:8080/Granav69/JWSn3QxpaR6D/439753
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="ECUADOR VS VENEZUELA",ECDF
+http://home-playtv.com:8080/Granav69/JWSn3QxpaR6D/198814
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gdedQmE.png" group-title="ECUADOR VS VENEZUELA",AMERICA TV
 http://home-playtv.com:8080/Granav69/JWSn3QxpaR6D/102643
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uqzGejz.png" group-title="ECUADOR VS VENEZUELA",TUDN USA
+http://home-playtv.com:8080/Granav69/JWSn3QxpaR6D/547533
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uqzGejz.png" group-title="MEXICO VS JAMAICA",TUDN USA
+http://home-playtv.com:8080/Granav69/JWSn3QxpaR6D/198814
 
 #CANALESECUADOR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eJf77aD.png" group-title="ECUADOR",ECUAVISA
