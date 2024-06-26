@@ -44,14 +44,3 @@ http://51.159.104.29:8080/bobesponja/index.m3u8
 http://51.159.104.29:8080/ben10/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cUhryJ5.png" group-title="24/7",MR. BEAN
 http://51.159.104.29:8080/mrbean/index.m3u8
-
-# Películas
-#EXTINF:-1 tvg-name="Colombiana" tvg-logo="https://i.imgur.com/2UadVmZ.png" group-title="Acción", Colombiana
-https://archive.org/download/Colombiana/Colombiana.mp4
- 
-# Series
-#EXTINF:-1 tvg-name="Series" tvg-logo="https://i.imgur.com/27U4ot2.png" group-title="Full House", Temporada 1 Episodio 1
-http://example.com/series/lacasadepapel/s01e01.mkv
- 
-#EXTINF:-1 tvg-name="Series" tvg-logo="https://i.imgur.com/27U4ot2.png" group-title="Full House", Temporada 3 Episodio 1
-https://archive.org/download/full-house-s-03-e-01/FULL_HOUSE_S03E01.mp4
