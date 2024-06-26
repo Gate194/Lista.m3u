@@ -52,3 +52,7 @@ Peliculas
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2UadVmZ.png" group-title="PELICULAS",COLOMBIANA
 https://archive.org/download/Colombiana/Colombiana.mp4
 
+Series
+#EXTINF:-1, TRES POR TRES - Episodio 1, tvg-logo="https://i.imgur.com/HFH5rQu.png" group-title="SERIES",
+https://archive.org/download/Colombiana/Colombiana.mp4
+
