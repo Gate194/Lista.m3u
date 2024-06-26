@@ -48,33 +48,17 @@ http://51.159.104.29:8080/ben10/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cUhryJ5.png" group-title="24/7",MR. BEAN
 http://51.159.104.29:8080/mrbean/index.m3u8
 
-Peliculas
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2UadVmZ.png" group-title="PELICULAS",COLOMBIANA
-https://archive.org/download/Colombiana/Colombiana.mp4
+#EXTINF:-1 tvg-id="la_casa_de_papel" tvg-name="La Casa de Papel" tvg-logo="http://www.example.com/logo.png" group-title="La Casa de Papel", Temporada 1 - Episodio 1
+http://www.ejemplo.com/series/la_casa_de_papel/temporada1/episodio1.mp4
 
-#EXTINF:-1, La Máscara3
-https://archive.org/download/Colombiana/Colombiana.mp4
+#EXTINF:-1 tvg-id="la_casa_de_papel" tvg-name="La Casa de Papel" tvg-logo="http://www.example.com/logo.png" group-title="La Casa de Papel", Temporada 1 - Episodio 2
+http://www.ejemplo.com/series/la_casa_de_papel/temporada1/episodio2.mp4
 
-#EXTINF:-1, La Casa de Papel2 - Temporada 1 - Episodio 1
-https://archive.org/download/Colombiana/Colombiana.mp4
-#EXTINF:-1, La Casa de Papel2 - Temporada 1 - Episodio 2
-https://archive.org/download/Colombiana/Colombiana.mp4
-#EXTINF:-1, La Casa de Papel2 - Temporada 1 - Episodio 3
-https://archive.org/download/Colombiana/Colombiana.mp4
+#EXTINF:-1 tvg-id="la_casa_de_papel" tvg-name="La Casa de Papel" tvg-logo="http://www.example.com/logo.png" group-title="La Casa de Papel", Temporada 1 - Episodio 3
+http://www.ejemplo.com/series/la_casa_de_papel/temporada1/episodio3.mp4
 
-#EXTINF:-1, La Máscara
-#EXTIMG:https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8IuTg9XaviDwpfm99IXUUPukrVA.jpg
-https://archive.org/download/Colombiana/Colombiana.mp4
+#EXTINF:-1 tvg-id="la_casa_de_papel" tvg-name="La Casa de Papel" tvg-logo="http://www.example.com/logo.png" group-title="La Casa de Papel", Temporada 2 - Episodio 1
+http://www.ejemplo.com/series/la_casa_de_papel/temporada2/episodio1.mp4
 
-#EXTINF:-1, La Casa de Papel - Temporada 1 - Episodio 1
-#EXTIMG:https://i.imgur.com/HFH5rQu.png
-https://archive.org/download/Colombiana/Colombiana.mp4
-#EXTINF:-1, La Casa de Papel - Temporada 1 - Episodio 2
-https://archive.org/download/Colombiana/Colombiana.mp4
-#EXTINF:-1, La Casa de Papel - Temporada 1 - Episodio 3
-https://archive.org/download/Colombiana/Colombiana.mp4
-#EXTINF:-1, La Casa de Papel - Temporada 1 - Episodio 4
-https://archive.org/download/Colombiana/Colombiana.mp4
-#EXTINF:-1, La Casa de Papel - Temporada 1 - Episodio 5
-https://archive.org/download/Colombiana/Colombiana.mp4
-#EXTINF:-1, La Casa de Papel - Temporada 2 - Episodio 1
+#EXTINF:-1 tvg-id="la_casa_de_papel" tvg-name="La Casa de Papel" tvg-logo="http://www.example.com/logo.png" group-title="La Casa de Papel", Temporada 2 - Episodio 2
+http://www.ejemplo.com/series/la_casa_de_papel/temporada2/episodio2.mp4
