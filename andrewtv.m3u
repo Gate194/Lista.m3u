@@ -52,6 +52,15 @@ Peliculas
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2UadVmZ.png" group-title="PELICULAS",COLOMBIANA
 https://archive.org/download/Colombiana/Colombiana.mp4
 
+#EXTM3U
+#EXTINF:-1, Película 1
+http://www.ejemplo.com/peliculas/pelicula1.mp4
+#EXTINF:-1, Película 2
+http://www.ejemplo.com/peliculas/pelicula2.mp4
+#EXTINF:-1, Serie 1 - Episodio 1
+http://www.ejemplo.com/series/serie1/episodio1.mp4
+#EXTINF:-1, Serie 1 - Episodio 2
+
 Series
 #EXTINF:-1, TRES POR TRES - Episodio 1, tvg-logo="https://i.imgur.com/HFH5rQu.png" group-title="SERIES",
 https://archive.org/download/Colombiana/Colombiana.mp4
