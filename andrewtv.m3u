@@ -42,3 +42,58 @@ http://51.159.104.29:8080/bobesponja/index.m3u8
 http://51.159.104.29:8080/ben10/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cUhryJ5.png" group-title="24/7",MR. BEAN
 http://51.159.104.29:8080/mrbean/index.m3u8
+
+# Películas
+#EXTINF:-1 tvg-name="Colombiana" tvg-logo="https://i.imgur.com/Y3wlfqZ.png" group-title="Peliculas",
+https://archive.org/download/Colombiana/Colombiana.mp4
+ 
+# Series
+#FULL HOUSE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hUeBlmt.png" group-title="Full House", T3-E1
+https://archive.org/download/s-03-e-01_202406/S03E01.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hUeBlmt.png" group-title="Full House", T3-E2
+https://archive.org/download/s-03-e-01_202406/S03E02.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hUeBlmt.png" group-title="Full House", T3-E3
+https://archive.org/download/s-03-e-01_202406/S03E03.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hUeBlmt.png" group-title="Full House", T3-E4
+https://archive.org/download/s-03-e-01_202406/S03E04.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hUeBlmt.png" group-title="Full House", T3-E5
+https://archive.org/download/s-03-e-01_202406/S03E05.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hUeBlmt.png" group-title="Full House", T3-E6
+https://archive.org/download/s-03-e-01_202406/S03E06.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hUeBlmt.png" group-title="Full House", T3-E7
+https://archive.org/download/s-03-e-01_202406/S03E07.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hUeBlmt.png" group-title="Full House", T3-E8
+https://archive.org/download/s-03-e-01_202406/S03E08.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hUeBlmt.png" group-title="Full House", T3-E9
+https://archive.org/download/s-03-e-01_202406/S03E09.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hUeBlmt.png" group-title="Full House", T3-E10
+https://archive.org/download/s-03-e-01_202406/S03E10.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hUeBlmt.png" group-title="Full House", T3-E11
+https://archive.org/download/s-03-e-01_202406/S03E11.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hUeBlmt.png" group-title="Full House", T3-E12
+https://archive.org/download/s-03-e-01_202406/S03E12.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hUeBlmt.png" group-title="Full House", T3-E13
+https://archive.org/download/s-03-e-01_202406/S03E13.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hUeBlmt.png" group-title="Full House", T3-E14
+https://archive.org/download/s-03-e-01_202406/S03E14.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hUeBlmt.png" group-title="Full House", T3-E15
+https://archive.org/download/s-03-e-01_202406/S03E15.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hUeBlmt.png" group-title="Full House", T3-E16
+https://archive.org/download/s-03-e-01_202406/S03E16.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hUeBlmt.png" group-title="Full House", T3-E17
+https://archive.org/download/s-03-e-01_202406/S03E17.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hUeBlmt.png" group-title="Full House", T3-E18
+https://archive.org/download/s-03-e-01_202406/S03E18.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hUeBlmt.png" group-title="Full House", T3-E19
+https://archive.org/download/s-03-e-01_202406/S03E19.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hUeBlmt.png" group-title="Full House", T3-E20
+https://archive.org/download/s-03-e-01_202406/S03E20.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hUeBlmt.png" group-title="Full House", T3-E21
+https://archive.org/download/s-03-e-01_202406/S03E21.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hUeBlmt.png" group-title="Full House", T3-E22
+https://archive.org/download/s-03-e-01_202406/S03E22.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hUeBlmt.png" group-title="Full House", T3-E23
+https://archive.org/download/s-03-e-01_202406/S03E23.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hUeBlmt.png" group-title="Full House", T3-E24
+https://archive.org/download/s-03-e-01_202406/S03E24.mp4
