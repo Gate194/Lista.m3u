@@ -4,15 +4,18 @@
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
 
 #COPA AMERICA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KYqbI2C.png" group-title="JAMAICA VS VENEZUELA",CANAL 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KYqbI2C.png" group-title="BOLIVIA VS PANAMÁ",UNIMÁS
 http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/53741
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1kT6yL6.png" group-title="EE.UU. VS URUGUAY",CANAL 4
+http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/37816
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AdKqqTV.png" group-title="EE.UU. VS URUGUAY",AZTECA 7
+http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/52965
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EHLVmOi.png" group-title="MEXICO VS ECUADOR",ECUAVISA
 https://jireh-3-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8?dpssid=b4519580091667c8bc2b7c05&sid=ba5t1l1xb4598642202667c8c419ce38&ndvc=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1kT6yL6.png" group-title="MEXICO VS ECUADOR",CANAL 4
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/37816
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AdKqqTV.png" group-title="MEXICO VS ECUADOR",AZTECA 7
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/52965
+
+
 
 
 #CANALESECUADOR
