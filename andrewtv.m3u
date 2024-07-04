@@ -8,10 +8,11 @@ https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://jireh-3-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8?dpssid=b4519580091667c8bc2b7c05&sid=ba5t1l1xb4598642202667c8c419ce38&ndvc=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1kT6yL6.png" group-title="ARGENTINA VS ECUADOR",CANAL 4
 http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/37816
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AdKqqTV.png" group-title="ARGENTINA VS ECUADOR",TV PÚBLICA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aBQArIn.png" group-title="ARGENTINA VS ECUADOR",TV PÚBLICA
 http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/46972
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aBQArIn.png" group-title="ARGENTINA VS ECUADOR",AZTECA 7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AdKqqTV.png" group-title="ARGENTINA VS ECUADOR",AZTECA 7
 http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/52965
+https://i.imgur.com/aBQArIn.png
 
 
 
