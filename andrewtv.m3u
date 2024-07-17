@@ -2,6 +2,8 @@
 #EUROCOPA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1SN5D82.png" group-title="COPA SUDAMERICANA",ESPN 2
 http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/51156
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9GfoBGA.png" group-title="COPA SUDAMERICANA",ESPN
+http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/51154
 
 #CANALESECUADOR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eJf77aD.png" group-title="ECUADOR",ECUAVISA
