@@ -1,15 +1,7 @@
 #EXTM3U
 #EUROCOPA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1A2fdmw.png" group-title="COPA SUDAMERICANA",BEIN SPORTS Ñ
-http://home-playtv.com:8080/restreamhome/5Ykqk9DpQUtm/228360
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9GfoBGA.png" group-title="COPA SUDAMERICANA",ESPN
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/51154
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nGaQyp5.png" group-title="COPA SUDAMERICANA",DSPORTS
-http://home-playtv.com:8080/restreamhome/5Ykqk9DpQUtm/310536
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nGaQyp5.png" group-title="COPA SUDAMERICANA",DSPORTS 2
-http://home-playtv.com:8080/restreamhome/5Ykqk9DpQUtm/310516
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nGaQyp5.png" group-title="COPA SUDAMERICANA",DSPORTS 3
-http://tvlatino.club:2082/vipcarlosvip1y/AUSXLDvwaqCq/399586
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZSNeB2k.png" group-title="LIGA PRO",IMBABURA VS BARCELONA SC
+https://ee58c35cff2a.us-east-1.playback.live-video.net/api/video/v1/us-east-1.022499000983.channel.PBH5TnNTOhxQ.m3u8
 
 #CANALESECUADOR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eJf77aD.png" group-title="ECUADOR",ECUAVISA
