@@ -1,8 +1,7 @@
 #EXTM3U
 #EUROCOPA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZSNeB2k.png" group-title="LIGA PRO",IMBABURA VS BARCELONA SC
-https://ee58c35cff2a.us-east-1.playback.live-video.net/api/video/v1/us-east-1.022499000983.channel.PBH5TnNTOhxQ.m3u8
-
+https://stream8.kdicesoe.xyz/ligapro/index.m3u8
 #CANALESECUADOR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eJf77aD.png" group-title="ECUADOR",ECUAVISA
 http://test.btorr.cfd:8080/xxxrestream/fghiBrdf55/18772
