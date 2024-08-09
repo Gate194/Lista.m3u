@@ -1,8 +1,8 @@
 #EXTM3U
 #EUROCOPA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZSNeB2k.png" group-title="LIGA PRO",IMBABURA VS BARCELONA SC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HKV8vvK.png" group-title="LIGA PRO",EVENTO 1
 https://betzta.com/canales.php?stream=golperu
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZSNeB2k.png" group-title="LIGA PRO",IMBABURA VS BARCELONA SC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HKV8vvK.png" group-title="LIGA PRO",EVENTO 2
 https://stream8.kdicesoe.xyz/ligapro/index.m3u8
 
 #CANALESECUADOR
