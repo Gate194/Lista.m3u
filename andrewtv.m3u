@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U tvg-url="https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/epg.xml"
 #EUROCOPA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HKV8vvK.png" group-title="LIGA PRO",EVENTO 1
 http://galaxypro.online:8080/Jhon785/Neivano456/283337
@@ -55,7 +55,7 @@ http://51.159.104.29:8080/mrbean/index.m3u8
 #PELICULAS
 #EXTINF:-1 tvg-name="Corre, Tiger, corre (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ilRnmU5JOWnpg8qR6EbI11yiEKR.jpg" group-title="45. PELICULAS NUEVAS",Corre, Tiger, corre (2022)
 http://dniel.one:8880/movie/nmycbppDUwmPJd2/TGeDrxy7mnLC4e3/46298.mkv
-#EXTINF:-1 tvg-name="Colombiana (2011)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vUbVAT8CS6b4r7ZWQ6GpCj1qvGI.jpg" group-title="PELICULAS",Colombiana (2011)
+#EXTINF:-1 tvg-id="colombiana" tvg-name="Colombiana (2011)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vUbVAT8CS6b4r7ZWQ6GpCj1qvGI.jpg" group-title="PELICULAS",Colombiana (2011)
 https://archive.org/download/Colombiana/Colombiana.mp4
  
 #SERIES
@@ -65,5 +65,3 @@ https://archive.org/download/Colombiana/Colombiana.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Corre, Tiger, corre (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ilRnmU5JOWnpg8qR6EbI11yiEKR.jpg" group-title="45. PELICULAS NUEVAS",Corre, Tiger, corre (2022)
 http://dniel.one:8880/movie/nmycbppDUwmPJd2/TGeDrxy7mnLC4e3/46298.mkv
-
-
