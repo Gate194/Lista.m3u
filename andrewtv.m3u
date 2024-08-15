@@ -53,12 +53,17 @@ http://51.159.104.29:8080/ben10/index.m3u8
 http://51.159.104.29:8080/mrbean/index.m3u8
 
 #PELICULAS
-#EXTINF:-1 tvg-name="Colombiana" tvg-logo="https://i.imgur.com/Y3wlfqZ.png" group-title="Peliculas",
+#EXTINF:-1 tvg-name="Corre, Tiger, corre (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ilRnmU5JOWnpg8qR6EbI11yiEKR.jpg" group-title="45. PELICULAS NUEVAS",Corre, Tiger, corre (2022)
+http://dniel.one:8880/movie/nmycbppDUwmPJd2/TGeDrxy7mnLC4e3/46298.mkv
+#EXTINF:-1 tvg-name="Colombiana (2011)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vUbVAT8CS6b4r7ZWQ6GpCj1qvGI.jpg" group-title="PELICULAS",Colombiana (2011)
 https://archive.org/download/Colombiana/Colombiana.mp4
  
 #SERIES
 #FULL HOUSE
 #TEMPORADA 3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hUeBlmt.png" group-title="Full House", T3-E1
+
+#EXTINF:-1 tvg-id="" tvg-name="Corre, Tiger, corre (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ilRnmU5JOWnpg8qR6EbI11yiEKR.jpg" group-title="45. PELICULAS NUEVAS",Corre, Tiger, corre (2022)
+http://dniel.one:8880/movie/nmycbppDUwmPJd2/TGeDrxy7mnLC4e3/46298.mkv
 
 
