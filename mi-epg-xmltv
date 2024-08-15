@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+    <channel id="colombiana2011">
+        <display-name>Colombiana (2011)</display-name>
+    </channel>
+    <channel id="actionmovie2020">
+        <display-name>Action Movie (2020)</display-name>
+    </channel>
+    
+    <programme start="20240815000000 +0000" stop="20240815020000 +0000" channel="colombiana2011">
+        <title>Colombiana (2011)</title>
+        <desc>A young woman, after witnessing her parents' murder as a child in Bogota, grows up to be a stone-cold assassin.</desc>
+    </programme>
+    <programme start="20240815120000 +0000" stop="20240815140000 +0000" channel="actionmovie2020">
+        <title>Action Movie (2020)</title>
+        <desc>An action-packed thriller featuring stunning fight scenes and explosive stunts.</desc>
+    </programme>
+</tv>
