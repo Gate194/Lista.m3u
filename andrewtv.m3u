@@ -1,10 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HKV8vvK.png" group-title="LIGA PRO",EVENTO 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gUM0Hkc.png" group-title="LIGA PRO",EVENTO 1
 http://novared.pro:80/play/KEWpOMTWKzUnW8UrPbnWZZQkcA4Mv9TX5gYZKTDSQZ0801Ar9MZXm1HVes_cFaeD/ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HKV8vvK.png" group-title="LIGA PRO",EVENTO 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gUM0Hkc.png" group-title="LIGA PRO",EVENTO 2
 http://galaxypro.online:8080/CesarGonzalesRp/x42qwf3AWu/221569
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HKV8vvK.png" group-title="LIGA PRO",EVENTO 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gUM0Hkc.png" group-title="LIGA PRO",EVENTO 3
 http://novared.pro:80/play/fRpl9GCyzvDSGtmDI2PWV-QHss6zR5ggNQYbBVgMYKR5MzfAVQ4pNut9uURDwMSG/ts
+
+#PREMIER LEAGUE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MRK4v3G.png" group-title="PREMIER LEAGUE",EVENTO 1
+http://ultra-premium-pro.xyz:8080/56933549198faceztv/030521ztv/248464
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MRK4v3G.png" group-title="PREMIER LEAGUE",EVENTO 2
+http://ultra-premium-pro.xyz:8080/56933549198faceztv/030521ztv/248465
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MRK4v3G.png" group-title="PREMIER LEAGUE",EVENTO 3
+http://ultra-premium-pro.xyz:8080/56933549198faceztv/030521ztv/248466
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MRK4v3G.png" group-title="PREMIER LEAGUE",EVENTO 4
+http://ultra-premium-pro.xyz:8080/56933549198faceztv/030521ztv/248467
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MRK4v3G.png" group-title="PREMIER LEAGUE",EVENTO 5
+http://ultra-premium-pro.xyz:8080/56933549198faceztv/030521ztv/248468
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MRK4v3G.png" group-title="PREMIER LEAGUE",EVENTO 6
+http://ultra-premium-pro.xyz:8080/56933549198faceztv/030521ztv/248469
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MRK4v3G.png" group-title="PREMIER LEAGUE",EVENTO 7
+http://ultra-premium-pro.xyz:8080/56933549198faceztv/030521ztv/248470
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MRK4v3G.png" group-title="PREMIER LEAGUE",EVENTO 8
+http://ultra-premium-pro.xyz:8080/56933549198faceztv/030521ztv/248471
+
 
 #CANALESECUADOR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eJf77aD.png" group-title="ECUADOR",ECUAVISA
