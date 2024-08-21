@@ -1,5 +1,4 @@
-#EXTM3U tvg-url="https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/epg.xml"
-#EUROCOPA
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HKV8vvK.png" group-title="LIGA PRO",EVENTO 1
 http://novared.pro:80/play/KEWpOMTWKzUnW8UrPbnWZZQkcA4Mv9TX5gYZKTDSQZ0801Ar9MZXm1HVes_cFaeD/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HKV8vvK.png" group-title="LIGA PRO",EVENTO 2
@@ -9,7 +8,7 @@ http://novared.pro:80/play/fRpl9GCyzvDSGtmDI2PWV-QHss6zR5ggNQYbBVgMYKR5MzfAVQ4pN
 
 #CANALESECUADOR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eJf77aD.png" group-title="ECUADOR",ECUAVISA
-http://test.btorr.cfd:8080/xxxrestream/fghiBrdf55/18772
+http://home-playtv.com:8080/restreamhome/5Ykqk9DpQUtm/198789
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EHLVmOi.png" group-title="ECUADOR",ECUAVISA 2
 http://home-playtv.com:8080/restreamhome/5Ykqk9DpQUtm/198789
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HQGUZQJ.png" group-title="ECUADOR",RTS
@@ -50,17 +49,3 @@ http://51.159.104.29:8080/bobesponja/index.m3u8
 http://51.159.104.29:8080/ben10/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cUhryJ5.png" group-title="24/7",MR. BEAN
 http://51.159.104.29:8080/mrbean/index.m3u8
-
-#PELICULAS
-#EXTINF:-1 tvg-name="Corre, Tiger, corre (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ilRnmU5JOWnpg8qR6EbI11yiEKR.jpg" group-title="45. PELICULAS NUEVAS",Corre, Tiger, corre (2022)
-http://dniel.one:8880/movie/nmycbppDUwmPJd2/TGeDrxy7mnLC4e3/46298.mkv
-#EXTINF:-1 tvg-id="colombiana" tvg-name="Colombiana (2011)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vUbVAT8CS6b4r7ZWQ6GpCj1qvGI.jpg" group-title="PELICULAS",Colombiana (2011)
-https://archive.org/download/Colombiana/Colombiana.mp4
- 
-#SERIES
-#FULL HOUSE
-#TEMPORADA 3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hUeBlmt.png" group-title="Full House", T3-E1
-
-#EXTINF:-1 tvg-id="" tvg-name="Corre, Tiger, corre (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ilRnmU5JOWnpg8qR6EbI11yiEKR.jpg" group-title="45. PELICULAS NUEVAS",Corre, Tiger, corre (2022)
-http://dniel.one:8880/movie/nmycbppDUwmPJd2/TGeDrxy7mnLC4e3/46298.mkv
