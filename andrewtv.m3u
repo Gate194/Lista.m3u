@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gUM0Hkc.png" group-title="LIGA PRO",EVENTO 1
-http://novared.pro:80/play/KEWpOMTWKzUnW8UrPbnWZZQkcA4Mv9TX5gYZKTDSQZ0801Ar9MZXm1HVes_cFaeD/ts
+http://daleplay.club:80/play/k-SUUzWyJgXiHh72dnp0alUydEV-_QyEIUdPNoNznTE/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gUM0Hkc.png" group-title="LIGA PRO",EVENTO 2
-http://galaxypro.online:8080/CesarGonzalesRp/x42qwf3AWu/221569
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gUM0Hkc.png" group-title="LIGA PRO",EVENTO 3
 http://novared.pro:80/play/fRpl9GCyzvDSGtmDI2PWV-QHss6zR5ggNQYbBVgMYKR5MzfAVQ4pNut9uURDwMSG/ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gUM0Hkc.png" group-title="LIGA PRO",EVENTO 3
+http://galaxypro.online:8080/CesarGonzalesRp/x42qwf3AWu/221569
 
 
 #COPA SUDAMERICANA
