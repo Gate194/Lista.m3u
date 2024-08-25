@@ -1,11 +1,11 @@
 #EXTM3U
+#EVENTOS ZAPPING
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gUM0Hkc.png" group-title="LIGA PRO",EVENTO 1
 http://daleplay.club:80/play/k-SUUzWyJgXiHh72dnp0alUydEV-_QyEIUdPNoNznTE/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gUM0Hkc.png" group-title="LIGA PRO",EVENTO 2
 http://novared.pro:80/play/fRpl9GCyzvDSGtmDI2PWV-QHss6zR5ggNQYbBVgMYKR5MzfAVQ4pNut9uURDwMSG/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gUM0Hkc.png" group-title="LIGA PRO",EVENTO 3
 http://galaxypro.online:8080/CesarGonzalesRp/x42qwf3AWu/221569
-
 
 #COPA SUDAMERICANA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/htfmC7L.png" group-title="COPA SUDAMERICANA",DSPORTS ARG
