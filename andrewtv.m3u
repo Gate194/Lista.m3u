@@ -1,25 +1,11 @@
 #EXTM3U
 #EVENTOS CLASIFICACION COPA DEL MUNDO
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HER4XK6.png" group-title="URUGUAY VS PARAGUAY",VENEVISIÓN
-https://vamo.frenkidegoat.xyz/nations/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yosvXUU.png" group-title="URUGUAY VS PARAGUAY",TYC SPORTS
-http://home-playtv.com:8080/Granav69/JWSn3QxpaR6D/188939
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ww3547Q.png" group-title="URUGUAY VS PARAGUAY",ESPN CHI
-http://home-playtv.com:8080/Granav69/JWSn3QxpaR6D/439775
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9I45VYg.png" group-title="COLOMBIA VS ARGENTINA",CARACOL TV
+http://home-playtv.com:8080/zuihaod3/PbQKHfpUqDxD/559718
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gdedQmE.png" group-title="ECUADOR VS PERÚ",AMÉRICA TV
+http://home-playtv.com:8080/zuihaod3/PbQKHfpUqDxD/559719
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="BRASIL VS ECUADOR",ECDF
-http://novared.pro:80/play/2LsjHuwKDan_9XjjIC80p8Qn85-MZyfEnw_UKB-IaYUL93BbhYGAwYJWs6VxUGcF/ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FmUBii3.png" group-title="BRASIL VS ECUADOR",UNIVERSO 1
-http://home-playtv.com:8080/Granav69/JWSn3QxpaR6D/185096
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FmUBii3.png" group-title="BRASIL VS ECUADOR",UNIVERSO 2
-http://home-playtv.com:8080/Granav69/JWSn3QxpaR6D/199524
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8VouSZ4.png" group-title="BRASIL VS ECUADOR",LATINA
-http://home-playtv.com:8080/Granav69/JWSn3QxpaR6D/21772
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9I45VYg.png" group-title="PERÚ VS COLOMBIA",CARACOL TV
-http://home-playtv.com:8080/Granav69/JWSn3QxpaR6D/46257
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gdedQmE.png" group-title="PERÚ VS COLOMBIA",AMÉRICA TV
-http://home-playtv.com:8080/Granav69/JWSn3QxpaR6D/102643
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DwV6iL7.png" group-title="PERÚ VS COLOMBIA",MOVISTAR DEPORTES
-http://home-playtv.com:8080/Granav69/JWSn3QxpaR6D/439746
+http://home-playtv.com:8080/zuihaod3/PbQKHfpUqDxD/559746
 
 
 #EVENTOS ZAPPING
