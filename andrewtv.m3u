@@ -1,9 +1,9 @@
 #EXTM3U
 #EVENTOS CLASIFICACION COPA DEL MUNDO
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yosvXUU.png" group-title="COLOMBIA VS ARGENTINA",TYC SPORTS
-http://home-playtv.com:8080/zuihaod3/PbQKHfpUqDxD/454718
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yosvXUU.png" group-title="COLOMBIA VS ARGENTINA",TYC SPORTS 2
 https://vamo.frenkidegoat.xyz/sudamericanas/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yosvXUU.png" group-title="COLOMBIA VS ARGENTINA",TYC SPORTS 2
+http://home-playtv.com:8080/zuihaod3/PbQKHfpUqDxD/454718
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9I45VYg.png" group-title="COLOMBIA VS ARGENTINA",CARACOL TV
 http://home-playtv.com:8080/zuihaod3/PbQKHfpUqDxD/211350
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gdedQmE.png" group-title="ECUADOR VS PERÚ",AMÉRICA TV
