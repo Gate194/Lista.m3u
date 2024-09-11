@@ -1,19 +1,5 @@
 #EXTM3U
 #EVENTOS CLASIFICACION COPA DEL MUNDO
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yosvXUU.png" group-title="COLOMBIA VS ARGENTINA",TYC SPORTS
-https://vamo.streamdz.xyz/sudamericanas/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9I45VYg.png" group-title="COLOMBIA VS ARGENTINA",CARACOL TV
-https://vamo.streamdz.xyz/sudamericanas2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DwV6iL7.png" group-title="ECUADOR VS PERÚ",MOVISTAR DEPORTES
-https://vamo.kdicesoe.xyz/sudamericanas3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gdedQmE.png" group-title="ECUADOR VS PERÚ",AMÉRICA TV
-http://home-playtv.com:8080/zuihaod3/PbQKHfpUqDxD/102643
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="ECUADOR VS PERÚ",ECDF
-http://home-playtv.com:8080/zuihaod3/PbQKHfpUqDxD/559746
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q6dAccR.png" group-title="CHILE VS BOLIVIA",CHILEVISION
-http://home-playtv.com:8080/zuihaod3/PbQKHfpUqDxD/559748
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yosvXUU.png" group-title="VENEZUELA VS URUGUAY",TYC SPORTS
-https://vamo.streamdz.xyz/sudamericanas/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yosvXUU.png" group-title="PARAGUAY VS BRASIL",TYC SPORTS
 https://vamo.streamdz.xyz/sudamericanas/index.m3u8
 
