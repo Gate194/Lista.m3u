@@ -10,8 +10,12 @@ https://daleplay.club:443/live/Guolee9080/Juan9080/e1ad8b49-66fc-4210-b2ee-99ede
 http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/e1ad8b49-66fc-4210-b2ee-99edef9d204a.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yosvXUU.png" group-title="VENEZUELA VS ARGENTINA",TYC SPORTS
 https://daleplay.club:443/live/Guolee9080/Juan9080/75754824-1d3a-4b28-82c8-a1644e965120.m3u
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yosvXUU.png" group-title="VENEZUELA VS ARGENTINA",TYC SPORTS 2
+http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/1210fd44-6295-4c8a-adb6-ec69909d4f2e.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q6dAccR.png" group-title="CHILE VS BRASIL",CHILE VISION
 https://daleplay.club:443/live/Guolee9080/Juan9080/575378a9-8a9b-416a-b7f1-d8da12c2e952.m3u
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q6dAccR.png" group-title="CHILE VS BRASIL",CHILE VISION 2
+http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/575378a9-8a9b-416a-b7f1-d8da12c2e952.m3u
 
 #MLS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d8zr5Ai.png" group-title=" MLS",INTER DE MIAMI
