@@ -8,6 +8,10 @@ http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/900d8416-54f4-4
 https://daleplay.club:443/live/Guolee9080/Juan9080/e1ad8b49-66fc-4210-b2ee-99edef9d204a.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="ECUADOR VS PARAGUAY",ECDF 2
 http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/e1ad8b49-66fc-4210-b2ee-99edef9d204a.m3u
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0hClRMc.png" group-title="ECUADOR VS PARAGUAY",ABC
+http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/1b9a7fe5-2f30-4f58-8533-3dfcb9b325dd.m3u
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0hClRMc.png" group-title="ECUADOR VS PARAGUAY",ABC 2
+https://daleplay.club:443/live/Guolee9080/Juan9080/1b9a7fe5-2f30-4f58-8533-3dfcb9b325dd.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yosvXUU.png" group-title="VENEZUELA VS ARGENTINA",TYC SPORTS
 https://daleplay.club:443/live/Guolee9080/Juan9080/75754824-1d3a-4b28-82c8-a1644e965120.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yosvXUU.png" group-title="VENEZUELA VS ARGENTINA",TYC SPORTS 2
