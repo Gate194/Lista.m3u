@@ -2,8 +2,12 @@
 #EVENTOS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WHgt5T3.png" group-title="BOLIVIA VS COLOMBIA",WIN SPORTS
 https://daleplay.club:443/live/Guolee9080/Juan9080/1083a16f-e74c-4ec2-9904-c60cc9e01865.m3u
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6gJkq0I.png" group-title="BOLIVIA VS COLOMBIA",GOL CARACOL
+http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/900d8416-54f4-4e76-969e-6844c00de270.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="ECUADOR VS PARAGUAY",ECDF
-https://daleplay.club:443/live/Guolee9080/Juan9080/df67cb3b-6625-4ec5-8652-1fd904aca342.m3u
+https://daleplay.club:443/live/Guolee9080/Juan9080/e1ad8b49-66fc-4210-b2ee-99edef9d204a.m3u
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="ECUADOR VS PARAGUAY",ECDF 2
+http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/e1ad8b49-66fc-4210-b2ee-99edef9d204a.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yosvXUU.png" group-title="VENEZUELA VS ARGENTINA",TYC SPORTS
 https://daleplay.club:443/live/Guolee9080/Juan9080/75754824-1d3a-4b28-82c8-a1644e965120.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q6dAccR.png" group-title="CHILE VS BRASIL",CHILE VISION
