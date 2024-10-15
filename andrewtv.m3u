@@ -1,7 +1,7 @@
 #EXTM3U
 #EVENTOS
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WHgt5T3.png" group-title="BOLIVIA VS COLOMBIA",WIN SPORTS
-https://daleplay.club:443/live/Guolee9080/Juan9080/1083a16f-e74c-4ec2-9904-c60cc9e01865.m3u
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9I45VYg.png" group-title="COLOMBIA VS CHILE",CARACOL TV
+https://daleplay.club:443/live/Guolee9080/Juan9080/d43e9fab-711f-4f6f-8704-4476eb880ecd.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6gJkq0I.png" group-title="BOLIVIA VS COLOMBIA",GOL CARACOL
 http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/900d8416-54f4-4e76-969e-6844c00de270.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="ECUADOR VS PARAGUAY",ECDF
