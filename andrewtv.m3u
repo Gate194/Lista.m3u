@@ -2,22 +2,42 @@
 #EVENTOS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9I45VYg.png" group-title="COLOMBIA VS CHILE",CARACOL TV
 https://daleplay.club:443/live/Guolee9080/Juan9080/d43e9fab-711f-4f6f-8704-4476eb880ecd.m3u
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9I45VYg.png" group-title="COLOMBIA VS CHILE",CARACOL TV 2
+http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/d43e9fab-711f-4f6f-8704-4476eb880ecd.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q6dAccR.pngg" group-title="COLOMBIA VS CHILE",CHILEVISION
 https://daleplay.club:443/live/Guolee9080/Juan9080/740ca90a-a515-4475-946f-3637bd843a46.m3u
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q6dAccR.pngg" group-title="COLOMBIA VS CHILE",CHILEVISION 2
+http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/740ca90a-a515-4475-946f-3637bd843a46.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HER4XK6.png" group-title="PARAGUAY VS VENEZUELA",VENEVISION
 https://daleplay.club:443/live/Guolee9080/Juan9080/229b3ccb-9b78-46b8-b554-1018fe65a929.m3u
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HER4XK6.png" group-title="PARAGUAY VS VENEZUELA",VENEVISION 2
+http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/229b3ccb-9b78-46b8-b554-1018fe65a929.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NEXkoUa.png" group-title="PARAGUAY VS VENEZUELA",GEN
 https://daleplay.club:443/live/Guolee9080/Juan9080/4479cba7-85cf-4f42-99ed-cdc1e0afbc15.m3u
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NEXkoUa.png" group-title="PARAGUAY VS VENEZUELA",GEN 2
+http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/4479cba7-85cf-4f42-99ed-cdc1e0afbc15.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="URUGUAY VS ECUADOR",ECDF
 https://daleplay.club:443/live/Guolee9080/Juan9080/16aa68b5-d86a-4268-a18d-79cce4ad830c.m3u
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="URUGUAY VS ECUADOR",ECDF 2
+http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/16aa68b5-d86a-4268-a18d-79cce4ad830c.m3u
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R2mZT3M.png" group-title="URUGUAY VS ECUADOR",GOL PERÚ
+https://daleplay.club:443/live/Guolee9080/Juan9080/c977f4ac-4e4b-435a-aa54-d73790149d6b.m3u
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R2mZT3M.png" group-title="URUGUAY VS ECUADOR",GOL PERÚ 2
+http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/c977f4ac-4e4b-435a-aa54-d73790149d6b.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yosvXUU.png" group-title="ARGENTINA VS BOLIVIA",TYC SPORTS
 https://daleplay.club:443/live/Guolee9080/Juan9080/e2e802ab-fc4e-4417-ae79-a2a8101c44dc.m3u
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yosvXUU.png" group-title="ARGENTINA VS BOLIVIA",TYC SPORTS 2
+http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/34e362a4-c44d-4f2d-8118-1fee5e2fa962.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gdedQmE.png" group-title="BRASIL VS PERÚ",AMERICA TV
 https://daleplay.club:443/live/Guolee9080/Juan9080/d98d13e5-3fdc-4678-b726-e8bb634b8aad.m3u
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gdedQmE.png" group-title="BRASIL VS PERÚ",AMERICA TV 2
+http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/d98d13e5-3fdc-4678-b726-e8bb634b8aad.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yosvXUU.png" group-title="BRASIL VS PERÚ",TYC SPORTS
 https://daleplay.club:443/live/Guolee9080/Juan9080/e2e802ab-fc4e-4417-ae79-a2a8101c44dc.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DwV6iL7.png" group-title="BRASIL VS PERÚ",MOVISTAR DEPORTES
 https://daleplay.club:443/live/Guolee9080/Juan9080/193a1efd-0610-4fd0-a652-8d9d00ca5d45.m3u
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DwV6iL7.png" group-title="BRASIL VS PERÚ",MOVISTAR DEPORTES 2
+http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/193a1efd-0610-4fd0-a652-8d9d00ca5d45.m3u
 
 #MLS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d8zr5Ai.png" group-title=" MLS",INTER DE MIAMI
