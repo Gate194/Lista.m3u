@@ -1,8 +1,5 @@
 #EXTM3U
 #EVENTOS
-#MLS
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d8zr5Ai.png" group-title=" MLS",INTER DE MIAMI
-http://home-playtv.com:8080/zuihaod3/PbQKHfpUqDxD/560019
 
 #EVENTOS ZAPPING
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gUM0Hkc.png" group-title="LIGA PRO",EVENTO 1
