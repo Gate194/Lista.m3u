@@ -1,17 +1,29 @@
 #EXTM3U
 #EVENTOS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="COLOMBIA VS ECUADOR",ECDF
+http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/16aa68b5-d86a-4268-a18d-79cce4ad830c.m3u
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="COLOMBIA VS ECUADOR",ECDF 2
+http://tvhomesmart.xyz:8080/56944675823/030524zero/250885
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9I45VYg.png" group-title="COLOMBIA VS ECUADOR",CARACOL TV
+http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/d43e9fab-711f-4f6f-8704-4476eb880ecd.m3u
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9I45VYg.png" group-title="COLOMBIA VS ECUADOR",CARACOL TV 2
+http://tvhomesmart.xyz:8080/56944675823/030524zero/331
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P0Z34Zw.png" group-title="COLOMBIA VS ECUADOR",RCN TELEVISION
+http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/c48297ef-4ee1-4077-aeb1-24c6e03897fe.m3u
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P0Z34Zw.png" group-title="COLOMBIA VS ECUADOR",RCN TELEVISION
+http://tvhomesmart.xyz:8080/56944675823/030524zero/343
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8VouSZ4.png" group-title="VENEZUELA VS BRASIL",LATINA
 https://daleplay.club:443/live/Melanieferrin/bbGqm84gcvv6/fb2e6b52-7083-4cd7-8e46-9fa6b28a0208.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yosvXUU.png" group-title="PARAGUAY VS ARGENTINA",TYC SPORTS
 https://daleplay.club:443/live/Melanieferrin/bbGqm84gcvv6/aaa9604b-4ef1-4783-9cba-84ec0ada6fef.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yosvXUU.png" group-title="PARAGUAY VS ARGENTINA",TYC SPORTS 2
 http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/aaa9604b-4ef1-4783-9cba-84ec0ada6fef.m3u
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="ECUADOR VS BOLIVIA",ECDF
-https://daleplay.club:443/live/Melanieferrin/bbGqm84gcvv6/a73f65da-186b-4488-9294-d71b312d5096.m3u
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="ECUADOR VS BOLIVIA",ECDF 2
 http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/a73f65da-186b-4488-9294-d71b312d5096.m3u
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9I45VYg.png" group-title="URUGUAY VS COLOMBIA",CARACOL TV
-https://daleplay.club:443/live/Melanieferrin/bbGqm84gcvv6/a2ac4369-0978-4411-8367-93bb5bc79915.m3u
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9I45VYg.png" group-title="URUGUAY VS COLOMBIA",CARACOL TV 2
 http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/a2ac4369-0978-4411-8367-93bb5bc79915.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gdedQmE.png" group-title="PERU VS CHILE",AMERICA TV
