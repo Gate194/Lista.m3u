@@ -32,9 +32,14 @@ http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/1511c406-1b16-4
 http://tvhomesmart.xyz:8080/56944675823/030524zero/61549
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yosvXUU.png" group-title="ARGENTINA VS PERU",TYC SPORTS
 http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/34e362a4-c44d-4f2d-8118-1fee5e2fa962.m3u
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R2mZT3M.png" group-title="ARGENTINA VS PERU",GOL PERU
+http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/c977f4ac-4e4b-435a-aa54-d73790149d6b.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8VouSZ4.png" group-title="BRASIL VS URUGUAY",LATINA TV
 http://tvhomesmart.xyz:8080/56944675823/030524zero/267
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UzK6MiD.png" group-title="BRASIL VS URUGUAY",MEGA
+http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/d15b0cb1-a052-43af-8c21-39692fd5e81a.m3u
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R2mZT3M.png" group-title="BRASIL VS URUGUAY",GOL PERU
+http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/c977f4ac-4e4b-435a-aa54-d73790149d6b.m3u
 
 #EVENTOS ZAPPING
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gUM0Hkc.png" group-title="LIGA PRO",EVENTO 1
