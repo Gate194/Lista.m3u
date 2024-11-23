@@ -32,7 +32,7 @@ https://alba-ec-rts-rts.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8AKjysS.png" group-title="ECUADOR",RTS 2
 http://home-playtv.com:8080/zuihaod3/PbQKHfpUqDxD/275598
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YTb0bHk.png" group-title="ECUADOR",TELEAMAZONAS
-https://daleplay.club:443/live/Melanieferrin/bbGqm84gcvv6/8a6335ce-92f5-439c-816d-c1841ecde360.m3u
+http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/8a6335ce-92f5-439c-816d-c1841ecde360.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bu1KBvE.png" group-title="ECUADOR",ECUADOR TV
 http://ultrapremium.cloud:8080/977391480tv/r8q69r/250859
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CvwRgyi.png" group-title="ECUADOR",GAMAVISION
