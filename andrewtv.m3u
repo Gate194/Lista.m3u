@@ -1,46 +1,5 @@
 #EXTM3U
 #EVENTOS
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8VouSZ4.png" group-title="BOLIVIA VS PARAGUAY",LATINA TV
-http://tvhomesmart.xyz:8080/56944675823/030524zero/267
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8VouSZ4.png" group-title="BOLIVIA VS PARAGUAY",LATINA TV 2
-http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/11b4b76a-7b3f-4328-a283-d8368e2ac12f.m3u
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9I45VYg.png" group-title="BOLIVIA VS PARAGUAY",CARACOL TV
-http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/d43e9fab-711f-4f6f-8704-4476eb880ecd.m3u
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="COLOMBIA VS ECUADOR",ECDF
-http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/16aa68b5-d86a-4268-a18d-79cce4ad830c.m3u
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JrHyanu.png" group-title="COLOMBIA VS ECUADOR",ECDF 2
-http://tvhomesmart.xyz:8080/56944675823/030524zero/250885
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9I45VYg.png" group-title="COLOMBIA VS ECUADOR",CARACOL TV
-http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/d43e9fab-711f-4f6f-8704-4476eb880ecd.m3u
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9I45VYg.png" group-title="COLOMBIA VS ECUADOR",CARACOL TV 2
-http://tvhomesmart.xyz:8080/56944675823/030524zero/331
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P0Z34Zw.png" group-title="COLOMBIA VS ECUADOR",RCN TELEVISION
-http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/c48297ef-4ee1-4077-aeb1-24c6e03897fe.m3u
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P0Z34Zw.png" group-title="COLOMBIA VS ECUADOR",RCN TELEVISION
-http://tvhomesmart.xyz:8080/56944675823/030524zero/343
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q6dAccR.png" group-title="CHILE VS VENEZUELA",CHILEVISION
-http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/ad909cec-0531-43f6-b38c-e78b2fe1e167.m3u
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q6dAccR.png" group-title="CHILE VS VENEZUELA",CHILEVISION 2
-http://tvhomesmart.xyz:8080/56944675823/030524zero/47
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ww3547Q.png" group-title="CHILE VS VENEZUELA",ESPN CHILE
-http://tvhomesmart.xyz:8080/56944675823/030524zero/67188
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gdedQmE.png" group-title="ARGENTINA VS PERU",AMERICA TV
-http://tvhomesmart.xyz:8080/56944675823/030524zero/247
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gdedQmE.png" group-title="ARGENTINA VS PERU",AMERICA TV2
-http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/1511c406-1b16-4e57-8b41-d28f4caba950.m3u
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VLIiYbi.png" group-title="ARGENTINA VS PERU",TELEFE
-http://tvhomesmart.xyz:8080/56944675823/030524zero/61549
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yosvXUU.png" group-title="ARGENTINA VS PERU",TYC SPORTS
-http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/34e362a4-c44d-4f2d-8118-1fee5e2fa962.m3u
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R2mZT3M.png" group-title="ARGENTINA VS PERU",GOL PERU
-http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/c977f4ac-4e4b-435a-aa54-d73790149d6b.m3u
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8VouSZ4.png" group-title="BRASIL VS URUGUAY",LATINA TV
-http://tvhomesmart.xyz:8080/56944675823/030524zero/267
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UzK6MiD.png" group-title="BRASIL VS URUGUAY",MEGA
-http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/d15b0cb1-a052-43af-8c21-39692fd5e81a.m3u
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R2mZT3M.png" group-title="BRASIL VS URUGUAY",GOL PERU
-http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/c977f4ac-4e4b-435a-aa54-d73790149d6b.m3u
-
 #EVENTOS ZAPPING
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gUM0Hkc.png" group-title="LIGA PRO",EVENTO 1
 https://daleplay.club:443/live/Guolee9080/Juan9080/d4041e04-d107-4c24-b3d0-17c70d02e1d0.m3u
@@ -52,27 +11,16 @@ http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/d4041e04-d107-4
 http://galaxypro.online:8080/DiegoRodriguez/Diego2024/283337
 
 #PREMIER LEAGUE
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GpDLXsx.png" group-title="PREMIER LEAGUE",ESPN ARG
-http://home-playtv.com:8080/restreamhome/5Ykqk9DpQUtm/439754
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VZnskaO.png" group-title="PREMIER LEAGUE",ESPN COL
-http://home-playtv.com:8080/restreamhome/5Ykqk9DpQUtm/519821
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MRK4v3G.png" group-title="PREMIER LEAGUE",EVENTO 1
-http://ultra-premium-pro.xyz:8080/56933549198faceztv/030521ztv/248464
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MRK4v3G.png" group-title="PREMIER LEAGUE",EVENTO 2
-http://ultra-premium-pro.xyz:8080/56933549198faceztv/030521ztv/248465
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MRK4v3G.png" group-title="PREMIER LEAGUE",EVENTO 3
-http://ultra-premium-pro.xyz:8080/56933549198faceztv/030521ztv/248466
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MRK4v3G.png" group-title="PREMIER LEAGUE",EVENTO 4
-http://ultra-premium-pro.xyz:8080/56933549198faceztv/030521ztv/248467
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MRK4v3G.png" group-title="PREMIER LEAGUE",EVENTO 5
-http://ultra-premium-pro.xyz:8080/56933549198faceztv/030521ztv/248468
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MRK4v3G.png" group-title="PREMIER LEAGUE",EVENTO 6
-http://ultra-premium-pro.xyz:8080/56933549198faceztv/030521ztv/248469
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MRK4v3G.png" group-title="PREMIER LEAGUE",EVENTO 7
-http://ultra-premium-pro.xyz:8080/56933549198faceztv/030521ztv/248470
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MRK4v3G.png" group-title="PREMIER LEAGUE",EVENTO 8
-http://ultra-premium-pro.xyz:8080/56933549198faceztv/030521ztv/248471
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aidDSg7.png" group-title="PREMIER LEAGUE",EVENTO 1
+http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/d6219ada-1e8e-4d64-a02c-fdf7db4f10a4.m3u
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aidDSg7.png" group-title="PREMIER LEAGUE",EVENTO 2
+http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/747ec823-3412-410c-9a23-afecd3e40497.m3u
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aidDSg7.png" group-title="PREMIER LEAGUE",EVENTO 3
+http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/5b7f6a21-8bd8-4e9f-b659-fff9167be1c0.m3u
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aidDSg7.png" group-title="PREMIER LEAGUE",EVENTO 4
+http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/abf8efc3-1eed-4ffd-be1d-07987c886b92.m3u
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aidDSg7.png" group-title="PREMIER LEAGUE",EVENTO 5
+http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/8a4b9701-3cb2-485a-a62b-562da27f32ab.m3u
 
 #CANALESECUADOR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eJf77aD.png" group-title="ECUADOR",ECUAVISA
