@@ -72,5 +72,5 @@ http://51.159.104.29:8080/ben10/index.m3u8
 http://51.159.104.29:8080/mrbean/index.m3u8
 
 #PELICULAS
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y3wlfqZ.png" group-title="24/7",COLOMBIANA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y3wlfqZ.png" group-title="PELICULAS",COLOMBIANA
 https://archive.org/download/Colombiana/Colombiana.mp4
