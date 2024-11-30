@@ -1,5 +1,10 @@
 #EXTM3U
 #EVENTOS
+#EVENTOS COPA LIBERTADORES
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VZnskaO.png" group-title="COPA LIBERTADORES",ESPN CO
+http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/81c4da50-0803-4098-b5f8-416c0d1be389.m3u
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Do4jUg0.png" group-title="COPA LIBERTADORES",BEIN SPORTS
+http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/b411b896-9c81-40a4-8289-38c730d3d436.m3u
 #EVENTOS ZAPPING
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gUM0Hkc.png" group-title="LIGA PRO",EVENTO 1
 https://daleplay.club:443/live/Guolee9080/Juan9080/d4041e04-d107-4c24-b3d0-17c70d02e1d0.m3u
