@@ -12,9 +12,9 @@ http://galaxypro.online:8080/DiegoRodriguez/Diego2024/283337
 
 #PREMIER LEAGUE
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aidDSg7.png" group-title="PREMIER LEAGUE",EVENTO 1
-http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/d6219ada-1e8e-4d64-a02c-fdf7db4f10a4.m3u
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aidDSg7.png" group-title="PREMIER LEAGUE",EVENTO 2
 http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/747ec823-3412-410c-9a23-afecd3e40497.m3u
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aidDSg7.png" group-title="PREMIER LEAGUE",EVENTO 2
+http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/5b7f6a21-8bd8-4e9f-b659-fff9167be1c0.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aidDSg7.png" group-title="PREMIER LEAGUE",EVENTO 3
 http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/5b7f6a21-8bd8-4e9f-b659-fff9167be1c0.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aidDSg7.png" group-title="PREMIER LEAGUE",EVENTO 4
