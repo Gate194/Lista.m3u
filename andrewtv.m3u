@@ -1,6 +1,11 @@
 #EXTM3U
 #EVENTOS
 #EVENTOS ZAPPING
+#EXTINF:-1 tvg-logo="https://i.imgur.com/93Gk5K2.png" group-title="NOCHE AMARILLA",EVENTO 1
+http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/1794cbcf-c954-4e66-bc84-dc1ee186e671.m3u
+#EXTINF:-1 tvg-logo="https://i.imgur.com/93Gk5K2.png" group-title="NOCHE AMARILLA",EVENTO 1
+http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/1f22932d-f81a-4825-9181-b86bfbf7c465.m3u
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gUM0Hkc.png" group-title="LIGA PRO",EVENTO 1
 http://daleplay.club:8080/live/JoseFuentesSanchez/PromoTvBoxJose/168d0f01-e8d6-4c90-a007-2d4f7c646946.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gUM0Hkc.png" group-title="LIGA PRO",EVENTO 2
